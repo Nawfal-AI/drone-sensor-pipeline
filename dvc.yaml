@@ -1,0 +1,37 @@
+stages:
+  ingestion:
+    cmd: python scripts/run_ingestion.py --split val
+    deps:
+      - data/raw/visdrone/VisDrone2019-DET-val/images
+      - data/raw/visdrone/VisDrone2019-DET-val/annotations
+      - src/ingestion/visdrone_loader.py
+      - src/ingestion/sensor_generator.py
+    outs:
+      - data/processed/image_manifest.json
+      - data/processed/sensor_records.json
+
+  alignment:
+    cmd: python scripts/run_alignment.py
+    deps:
+      - data/processed/image_manifest.json
+      - data/processed/sensor_records.json
+      - src/alignment/temporal_aligner.py
+    outs:
+      - data/processed/aligned_metadata.json
+
+  curation:
+    cmd: python scripts/run_curation.py --blur-threshold 80
+    deps:
+      - data/processed/aligned_metadata.json
+      - src/curation/curator.py
+    outs:
+      - data/processed/curated_metadata.json
+      - data/processed/curation_report.json
+
+  sharding:
+    cmd: python scripts/run_sharding.py --shard-size 200
+    deps:
+      - data/processed/curated_metadata.json
+      - src/ingestion/sharder.py
+    outs:
+      - data/sharded

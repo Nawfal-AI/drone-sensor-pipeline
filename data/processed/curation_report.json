@@ -1,0 +1,3822 @@
+[
+  {
+    "image_id": "0000001_02999_d_0000005",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000001_02999_d_0000005.jpg",
+    "status": "passed",
+    "laplacian_var": 1626.06,
+    "num_objects": 127
+  },
+  {
+    "image_id": "0000001_03499_d_0000006",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000001_03499_d_0000006.jpg",
+    "status": "passed",
+    "laplacian_var": 1100.79,
+    "num_objects": 77
+  },
+  {
+    "image_id": "0000001_03999_d_0000007",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000001_03999_d_0000007.jpg",
+    "status": "passed",
+    "laplacian_var": 1099.71,
+    "num_objects": 48
+  },
+  {
+    "image_id": "0000001_04527_d_0000008",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000001_04527_d_0000008.jpg",
+    "status": "passed",
+    "laplacian_var": 1028.14,
+    "num_objects": 115
+  },
+  {
+    "image_id": "0000001_05249_d_0000009",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000001_05249_d_0000009.jpg",
+    "status": "passed",
+    "laplacian_var": 872.17,
+    "num_objects": 113
+  },
+  {
+    "image_id": "0000001_05499_d_0000010",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000001_05499_d_0000010.jpg",
+    "status": "passed",
+    "laplacian_var": 1089.41,
+    "num_objects": 140
+  },
+  {
+    "image_id": "0000001_05999_d_0000011",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000001_05999_d_0000011.jpg",
+    "status": "passed",
+    "laplacian_var": 933.07,
+    "num_objects": 115
+  },
+  {
+    "image_id": "0000001_07999_d_0000012",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000001_07999_d_0000012.jpg",
+    "status": "passed",
+    "laplacian_var": 1100.46,
+    "num_objects": 136
+  },
+  {
+    "image_id": "0000001_08414_d_0000013",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000001_08414_d_0000013.jpg",
+    "status": "passed",
+    "laplacian_var": 843.49,
+    "num_objects": 164
+  },
+  {
+    "image_id": "0000021_00000_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000021_00000_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 626.23,
+    "num_objects": 31
+  },
+  {
+    "image_id": "0000021_00500_d_0000002",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000021_00500_d_0000002.jpg",
+    "status": "passed",
+    "laplacian_var": 592.54,
+    "num_objects": 17
+  },
+  {
+    "image_id": "0000021_00800_d_0000003",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000021_00800_d_0000003.jpg",
+    "status": "passed",
+    "laplacian_var": 685.67,
+    "num_objects": 7
+  },
+  {
+    "image_id": "0000022_00000_d_0000004",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000022_00000_d_0000004.jpg",
+    "status": "passed",
+    "laplacian_var": 405.47,
+    "num_objects": 42
+  },
+  {
+    "image_id": "0000022_00500_d_0000005",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000022_00500_d_0000005.jpg",
+    "status": "passed",
+    "laplacian_var": 244.42,
+    "num_objects": 32
+  },
+  {
+    "image_id": "0000022_01036_d_0000006",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000022_01036_d_0000006.jpg",
+    "status": "passed",
+    "laplacian_var": 114.71,
+    "num_objects": 16
+  },
+  {
+    "image_id": "0000022_01251_d_0000007",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000022_01251_d_0000007.jpg",
+    "status": "passed",
+    "laplacian_var": 199.57,
+    "num_objects": 12
+  },
+  {
+    "image_id": "0000023_00000_d_0000008",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000023_00000_d_0000008.jpg",
+    "status": "dropped",
+    "reason": "duplicate"
+  },
+  {
+    "image_id": "0000023_00300_d_0000009",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000023_00300_d_0000009.jpg",
+    "status": "passed",
+    "laplacian_var": 326.35,
+    "num_objects": 30
+  },
+  {
+    "image_id": "0000023_00868_d_0000010",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000023_00868_d_0000010.jpg",
+    "status": "passed",
+    "laplacian_var": 192.9,
+    "num_objects": 20
+  },
+  {
+    "image_id": "0000023_01233_d_0000011",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000023_01233_d_0000011.jpg",
+    "status": "passed",
+    "laplacian_var": 138.18,
+    "num_objects": 14
+  },
+  {
+    "image_id": "0000024_00000_d_0000012",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000024_00000_d_0000012.jpg",
+    "status": "passed",
+    "laplacian_var": 839.27,
+    "num_objects": 21
+  },
+  {
+    "image_id": "0000024_00500_d_0000013",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000024_00500_d_0000013.jpg",
+    "status": "passed",
+    "laplacian_var": 293.3,
+    "num_objects": 10
+  },
+  {
+    "image_id": "0000024_01000_d_0000014",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000024_01000_d_0000014.jpg",
+    "status": "passed",
+    "laplacian_var": 607.73,
+    "num_objects": 12
+  },
+  {
+    "image_id": "0000024_01543_d_0000015",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000024_01543_d_0000015.jpg",
+    "status": "passed",
+    "laplacian_var": 1270.55,
+    "num_objects": 8
+  },
+  {
+    "image_id": "0000026_00000_d_0000024",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000026_00000_d_0000024.jpg",
+    "status": "passed",
+    "laplacian_var": 1552.63,
+    "num_objects": 8
+  },
+  {
+    "image_id": "0000026_00500_d_0000025",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000026_00500_d_0000025.jpg",
+    "status": "passed",
+    "laplacian_var": 1228.63,
+    "num_objects": 15
+  },
+  {
+    "image_id": "0000026_01000_d_0000026",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000026_01000_d_0000026.jpg",
+    "status": "passed",
+    "laplacian_var": 654.64,
+    "num_objects": 25
+  },
+  {
+    "image_id": "0000026_01500_d_0000027",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000026_01500_d_0000027.jpg",
+    "status": "passed",
+    "laplacian_var": 1279.89,
+    "num_objects": 10
+  },
+  {
+    "image_id": "0000026_02000_d_0000028",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000026_02000_d_0000028.jpg",
+    "status": "passed",
+    "laplacian_var": 1111.95,
+    "num_objects": 9
+  },
+  {
+    "image_id": "0000026_02500_d_0000029",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000026_02500_d_0000029.jpg",
+    "status": "passed",
+    "laplacian_var": 1504.34,
+    "num_objects": 17
+  },
+  {
+    "image_id": "0000026_03000_d_0000030",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000026_03000_d_0000030.jpg",
+    "status": "passed",
+    "laplacian_var": 762.35,
+    "num_objects": 13
+  },
+  {
+    "image_id": "0000026_03500_d_0000031",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000026_03500_d_0000031.jpg",
+    "status": "passed",
+    "laplacian_var": 929.81,
+    "num_objects": 23
+  },
+  {
+    "image_id": "0000026_04000_d_0000032",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000026_04000_d_0000032.jpg",
+    "status": "passed",
+    "laplacian_var": 731.68,
+    "num_objects": 14
+  },
+  {
+    "image_id": "0000026_04500_d_0000033",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000026_04500_d_0000033.jpg",
+    "status": "passed",
+    "laplacian_var": 1280.7,
+    "num_objects": 47
+  },
+  {
+    "image_id": "0000026_04978_d_0000034",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000026_04978_d_0000034.jpg",
+    "status": "passed",
+    "laplacian_var": 873.36,
+    "num_objects": 45
+  },
+  {
+    "image_id": "0000055_00000_d_0000109",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000055_00000_d_0000109.jpg",
+    "status": "passed",
+    "laplacian_var": 492.02,
+    "num_objects": 101
+  },
+  {
+    "image_id": "0000055_00714_d_0000110",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000055_00714_d_0000110.jpg",
+    "status": "dropped",
+    "reason": "blur(score=28.4)"
+  },
+  {
+    "image_id": "0000069_00001_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000069_00001_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 1255.97,
+    "num_objects": 34
+  },
+  {
+    "image_id": "0000069_00483_d_0000002",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000069_00483_d_0000002.jpg",
+    "status": "passed",
+    "laplacian_var": 283.6,
+    "num_objects": 27
+  },
+  {
+    "image_id": "0000069_00713_d_0000003",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000069_00713_d_0000003.jpg",
+    "status": "passed",
+    "laplacian_var": 307.7,
+    "num_objects": 49
+  },
+  {
+    "image_id": "0000069_01109_d_0000004",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000069_01109_d_0000004.jpg",
+    "status": "passed",
+    "laplacian_var": 342.95,
+    "num_objects": 31
+  },
+  {
+    "image_id": "0000069_01878_d_0000005",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000069_01878_d_0000005.jpg",
+    "status": "passed",
+    "laplacian_var": 523.74,
+    "num_objects": 36
+  },
+  {
+    "image_id": "0000069_02163_d_0000006",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000069_02163_d_0000006.jpg",
+    "status": "passed",
+    "laplacian_var": 1360.55,
+    "num_objects": 49
+  },
+  {
+    "image_id": "0000069_02480_d_0000007",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000069_02480_d_0000007.jpg",
+    "status": "passed",
+    "laplacian_var": 2257.75,
+    "num_objects": 64
+  },
+  {
+    "image_id": "0000072_02834_d_0000003",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000072_02834_d_0000003.jpg",
+    "status": "dropped",
+    "reason": "blur(score=74.9)"
+  },
+  {
+    "image_id": "0000076_02142_d_0000009",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000076_02142_d_0000009.jpg",
+    "status": "passed",
+    "laplacian_var": 337.18,
+    "num_objects": 11
+  },
+  {
+    "image_id": "0000081_00000_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000081_00000_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 1015.23,
+    "num_objects": 86
+  },
+  {
+    "image_id": "0000086_00000_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000086_00000_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 1199.04,
+    "num_objects": 37
+  },
+  {
+    "image_id": "0000086_00592_d_0000002",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000086_00592_d_0000002.jpg",
+    "status": "passed",
+    "laplacian_var": 1167.18,
+    "num_objects": 65
+  },
+  {
+    "image_id": "0000086_01084_d_0000003",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000086_01084_d_0000003.jpg",
+    "status": "passed",
+    "laplacian_var": 1093.29,
+    "num_objects": 146
+  },
+  {
+    "image_id": "0000086_01443_d_0000004",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000086_01443_d_0000004.jpg",
+    "status": "passed",
+    "laplacian_var": 1282.05,
+    "num_objects": 107
+  },
+  {
+    "image_id": "0000086_01954_d_0000005",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000086_01954_d_0000005.jpg",
+    "status": "passed",
+    "laplacian_var": 1133.57,
+    "num_objects": 173
+  },
+  {
+    "image_id": "0000103_00180_d_0000026",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000103_00180_d_0000026.jpg",
+    "status": "passed",
+    "laplacian_var": 82.68,
+    "num_objects": 1
+  },
+  {
+    "image_id": "0000103_00502_d_0000027",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000103_00502_d_0000027.jpg",
+    "status": "passed",
+    "laplacian_var": 147.57,
+    "num_objects": 3
+  },
+  {
+    "image_id": "0000103_01734_d_0000028",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000103_01734_d_0000028.jpg",
+    "status": "passed",
+    "laplacian_var": 256.96,
+    "num_objects": 4
+  },
+  {
+    "image_id": "0000103_02544_d_0000029",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000103_02544_d_0000029.jpg",
+    "status": "passed",
+    "laplacian_var": 193.27,
+    "num_objects": 14
+  },
+  {
+    "image_id": "0000103_02964_d_0000030",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000103_02964_d_0000030.jpg",
+    "status": "passed",
+    "laplacian_var": 532.59,
+    "num_objects": 10
+  },
+  {
+    "image_id": "0000103_03349_d_0000031",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000103_03349_d_0000031.jpg",
+    "status": "passed",
+    "laplacian_var": 235.62,
+    "num_objects": 4
+  },
+  {
+    "image_id": "0000103_03738_d_0000032",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000103_03738_d_0000032.jpg",
+    "status": "dropped",
+    "reason": "blur(score=43.4)"
+  },
+  {
+    "image_id": "0000103_04122_d_0000033",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000103_04122_d_0000033.jpg",
+    "status": "passed",
+    "laplacian_var": 189.17,
+    "num_objects": 4
+  },
+  {
+    "image_id": "0000103_04513_d_0000034",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000103_04513_d_0000034.jpg",
+    "status": "passed",
+    "laplacian_var": 93.12,
+    "num_objects": 2
+  },
+  {
+    "image_id": "0000103_04948_d_0000035",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000103_04948_d_0000035.jpg",
+    "status": "passed",
+    "laplacian_var": 183.14,
+    "num_objects": 1
+  },
+  {
+    "image_id": "0000115_00315_d_0000080",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000115_00315_d_0000080.jpg",
+    "status": "passed",
+    "laplacian_var": 252.22,
+    "num_objects": 61
+  },
+  {
+    "image_id": "0000115_00796_d_0000081",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000115_00796_d_0000081.jpg",
+    "status": "passed",
+    "laplacian_var": 263.31,
+    "num_objects": 78
+  },
+  {
+    "image_id": "0000115_01031_d_0000082",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000115_01031_d_0000082.jpg",
+    "status": "passed",
+    "laplacian_var": 281.26,
+    "num_objects": 63
+  },
+  {
+    "image_id": "0000116_00351_d_0000083",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000116_00351_d_0000083.jpg",
+    "status": "passed",
+    "laplacian_var": 278.31,
+    "num_objects": 74
+  },
+  {
+    "image_id": "0000116_00819_d_0000084",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000116_00819_d_0000084.jpg",
+    "status": "passed",
+    "laplacian_var": 285.46,
+    "num_objects": 36
+  },
+  {
+    "image_id": "0000116_01059_d_0000085",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000116_01059_d_0000085.jpg",
+    "status": "passed",
+    "laplacian_var": 332.98,
+    "num_objects": 70
+  },
+  {
+    "image_id": "0000116_01338_d_0000086",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000116_01338_d_0000086.jpg",
+    "status": "passed",
+    "laplacian_var": 219.77,
+    "num_objects": 54
+  },
+  {
+    "image_id": "0000117_00112_d_0000087",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000117_00112_d_0000087.jpg",
+    "status": "passed",
+    "laplacian_var": 120.89,
+    "num_objects": 129
+  },
+  {
+    "image_id": "0000117_01326_d_0000088",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000117_01326_d_0000088.jpg",
+    "status": "passed",
+    "laplacian_var": 125.87,
+    "num_objects": 62
+  },
+  {
+    "image_id": "0000117_01731_d_0000089",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000117_01731_d_0000089.jpg",
+    "status": "passed",
+    "laplacian_var": 118.28,
+    "num_objects": 47
+  },
+  {
+    "image_id": "0000117_02708_d_0000090",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000117_02708_d_0000090.jpg",
+    "status": "passed",
+    "laplacian_var": 194.58,
+    "num_objects": 100
+  },
+  {
+    "image_id": "0000117_03096_d_0000091",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000117_03096_d_0000091.jpg",
+    "status": "passed",
+    "laplacian_var": 163.21,
+    "num_objects": 24
+  },
+  {
+    "image_id": "0000129_02411_d_0000138",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000129_02411_d_0000138.jpg",
+    "status": "passed",
+    "laplacian_var": 809.16,
+    "num_objects": 186
+  },
+  {
+    "image_id": "0000153_00001_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000153_00001_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 875.77,
+    "num_objects": 55
+  },
+  {
+    "image_id": "0000153_00401_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000153_00401_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 971.8,
+    "num_objects": 59
+  },
+  {
+    "image_id": "0000153_00801_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000153_00801_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 843.77,
+    "num_objects": 49
+  },
+  {
+    "image_id": "0000153_01201_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000153_01201_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 977.11,
+    "num_objects": 59
+  },
+  {
+    "image_id": "0000153_01601_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000153_01601_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 1102.57,
+    "num_objects": 63
+  },
+  {
+    "image_id": "0000153_01801_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000153_01801_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 1066.42,
+    "num_objects": 55
+  },
+  {
+    "image_id": "0000154_00001_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000154_00001_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 1049.15,
+    "num_objects": 51
+  },
+  {
+    "image_id": "0000154_00401_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000154_00401_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 929.68,
+    "num_objects": 61
+  },
+  {
+    "image_id": "0000154_00801_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000154_00801_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 891.72,
+    "num_objects": 72
+  },
+  {
+    "image_id": "0000154_01201_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000154_01201_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 1149.24,
+    "num_objects": 81
+  },
+  {
+    "image_id": "0000154_01601_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000154_01601_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 1188.09,
+    "num_objects": 101
+  },
+  {
+    "image_id": "0000154_02001_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000154_02001_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 1168.88,
+    "num_objects": 83
+  },
+  {
+    "image_id": "0000155_00001_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000155_00001_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 1272.57,
+    "num_objects": 97
+  },
+  {
+    "image_id": "0000155_00401_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000155_00401_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 1315.25,
+    "num_objects": 122
+  },
+  {
+    "image_id": "0000155_00801_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000155_00801_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 1489.95,
+    "num_objects": 106
+  },
+  {
+    "image_id": "0000155_01201_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000155_01201_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 1018.17,
+    "num_objects": 94
+  },
+  {
+    "image_id": "0000155_01601_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000155_01601_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 1023.19,
+    "num_objects": 73
+  },
+  {
+    "image_id": "0000155_01871_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000155_01871_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 896.67,
+    "num_objects": 55
+  },
+  {
+    "image_id": "0000162_00001_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000162_00001_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 598.33,
+    "num_objects": 34
+  },
+  {
+    "image_id": "0000162_00401_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000162_00401_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 666.18,
+    "num_objects": 46
+  },
+  {
+    "image_id": "0000162_00801_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000162_00801_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 556.82,
+    "num_objects": 30
+  },
+  {
+    "image_id": "0000162_01058_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000162_01058_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 875.55,
+    "num_objects": 57
+  },
+  {
+    "image_id": "0000163_00001_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000163_00001_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 1237.07,
+    "num_objects": 69
+  },
+  {
+    "image_id": "0000163_00359_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000163_00359_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 1088.56,
+    "num_objects": 54
+  },
+  {
+    "image_id": "0000165_04325_d_0000105",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000165_04325_d_0000105.jpg",
+    "status": "passed",
+    "laplacian_var": 440.44,
+    "num_objects": 29
+  },
+  {
+    "image_id": "0000166_00558_d_0000118",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000166_00558_d_0000118.jpg",
+    "status": "passed",
+    "laplacian_var": 905.9,
+    "num_objects": 71
+  },
+  {
+    "image_id": "0000193_00000_d_0000103",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000193_00000_d_0000103.jpg",
+    "status": "passed",
+    "laplacian_var": 1162.02,
+    "num_objects": 63
+  },
+  {
+    "image_id": "0000193_01497_d_0000111",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000193_01497_d_0000111.jpg",
+    "status": "passed",
+    "laplacian_var": 1216.33,
+    "num_objects": 87
+  },
+  {
+    "image_id": "0000193_01705_d_0000112",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000193_01705_d_0000112.jpg",
+    "status": "passed",
+    "laplacian_var": 959.95,
+    "num_objects": 134
+  },
+  {
+    "image_id": "0000193_01876_d_0000113",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000193_01876_d_0000113.jpg",
+    "status": "passed",
+    "laplacian_var": 1009.45,
+    "num_objects": 108
+  },
+  {
+    "image_id": "0000193_02029_d_0000114",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000193_02029_d_0000114.jpg",
+    "status": "passed",
+    "laplacian_var": 1031.31,
+    "num_objects": 94
+  },
+  {
+    "image_id": "0000193_02212_d_0000115",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000193_02212_d_0000115.jpg",
+    "status": "passed",
+    "laplacian_var": 1176.91,
+    "num_objects": 78
+  },
+  {
+    "image_id": "0000193_02416_d_0000116",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000193_02416_d_0000116.jpg",
+    "status": "passed",
+    "laplacian_var": 940.71,
+    "num_objects": 50
+  },
+  {
+    "image_id": "0000193_02606_d_0000117",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000193_02606_d_0000117.jpg",
+    "status": "passed",
+    "laplacian_var": 1240.14,
+    "num_objects": 49
+  },
+  {
+    "image_id": "0000193_02725_d_0000118",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000193_02725_d_0000118.jpg",
+    "status": "passed",
+    "laplacian_var": 1003.94,
+    "num_objects": 39
+  },
+  {
+    "image_id": "0000194_00000_d_0000119",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000194_00000_d_0000119.jpg",
+    "status": "passed",
+    "laplacian_var": 1697.87,
+    "num_objects": 54
+  },
+  {
+    "image_id": "0000194_00200_d_0000120",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000194_00200_d_0000120.jpg",
+    "status": "passed",
+    "laplacian_var": 1100.69,
+    "num_objects": 76
+  },
+  {
+    "image_id": "0000194_00399_d_0000121",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000194_00399_d_0000121.jpg",
+    "status": "passed",
+    "laplacian_var": 927.38,
+    "num_objects": 143
+  },
+  {
+    "image_id": "0000194_00625_d_0000122",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000194_00625_d_0000122.jpg",
+    "status": "passed",
+    "laplacian_var": 1013.91,
+    "num_objects": 83
+  },
+  {
+    "image_id": "0000194_00800_d_0000123",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000194_00800_d_0000123.jpg",
+    "status": "passed",
+    "laplacian_var": 1276.75,
+    "num_objects": 54
+  },
+  {
+    "image_id": "0000194_00998_d_0000124",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000194_00998_d_0000124.jpg",
+    "status": "passed",
+    "laplacian_var": 985.78,
+    "num_objects": 42
+  },
+  {
+    "image_id": "0000194_01192_d_0000125",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000194_01192_d_0000125.jpg",
+    "status": "passed",
+    "laplacian_var": 1395.46,
+    "num_objects": 23
+  },
+  {
+    "image_id": "0000196_04512_d_0000144",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000196_04512_d_0000144.jpg",
+    "status": "passed",
+    "laplacian_var": 1191.04,
+    "num_objects": 69
+  },
+  {
+    "image_id": "0000199_01269_d_0000166",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000199_01269_d_0000166.jpg",
+    "status": "passed",
+    "laplacian_var": 156.9,
+    "num_objects": 16
+  },
+  {
+    "image_id": "0000213_02500_d_0000240",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000213_02500_d_0000240.jpg",
+    "status": "passed",
+    "laplacian_var": 853.58,
+    "num_objects": 94
+  },
+  {
+    "image_id": "0000213_02965_d_0000241",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000213_02965_d_0000241.jpg",
+    "status": "passed",
+    "laplacian_var": 1959.79,
+    "num_objects": 94
+  },
+  {
+    "image_id": "0000213_03478_d_0000242",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000213_03478_d_0000242.jpg",
+    "status": "passed",
+    "laplacian_var": 1745.01,
+    "num_objects": 115
+  },
+  {
+    "image_id": "0000213_03920_d_0000243",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000213_03920_d_0000243.jpg",
+    "status": "passed",
+    "laplacian_var": 1833.53,
+    "num_objects": 164
+  },
+  {
+    "image_id": "0000213_04405_d_0000244",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000213_04405_d_0000244.jpg",
+    "status": "passed",
+    "laplacian_var": 1979.47,
+    "num_objects": 106
+  },
+  {
+    "image_id": "0000213_04998_d_0000245",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000213_04998_d_0000245.jpg",
+    "status": "passed",
+    "laplacian_var": 2283.74,
+    "num_objects": 137
+  },
+  {
+    "image_id": "0000213_05340_d_0000246",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000213_05340_d_0000246.jpg",
+    "status": "passed",
+    "laplacian_var": 1948.46,
+    "num_objects": 138
+  },
+  {
+    "image_id": "0000213_05745_d_0000247",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000213_05745_d_0000247.jpg",
+    "status": "passed",
+    "laplacian_var": 1695.85,
+    "num_objects": 101
+  },
+  {
+    "image_id": "0000215_00000_d_0000256",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000215_00000_d_0000256.jpg",
+    "status": "passed",
+    "laplacian_var": 350.0,
+    "num_objects": 157
+  },
+  {
+    "image_id": "0000215_00447_d_0000257",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000215_00447_d_0000257.jpg",
+    "status": "passed",
+    "laplacian_var": 110.73,
+    "num_objects": 53
+  },
+  {
+    "image_id": "0000215_00909_d_0000258",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000215_00909_d_0000258.jpg",
+    "status": "passed",
+    "laplacian_var": 249.07,
+    "num_objects": 93
+  },
+  {
+    "image_id": "0000215_01395_d_0000259",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000215_01395_d_0000259.jpg",
+    "status": "passed",
+    "laplacian_var": 307.05,
+    "num_objects": 57
+  },
+  {
+    "image_id": "0000215_01869_d_0000260",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000215_01869_d_0000260.jpg",
+    "status": "passed",
+    "laplacian_var": 216.74,
+    "num_objects": 78
+  },
+  {
+    "image_id": "0000215_02319_d_0000261",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000215_02319_d_0000261.jpg",
+    "status": "passed",
+    "laplacian_var": 148.6,
+    "num_objects": 107
+  },
+  {
+    "image_id": "0000215_02667_d_0000262",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000215_02667_d_0000262.jpg",
+    "status": "passed",
+    "laplacian_var": 317.23,
+    "num_objects": 83
+  },
+  {
+    "image_id": "0000215_02932_d_0000263",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000215_02932_d_0000263.jpg",
+    "status": "passed",
+    "laplacian_var": 164.55,
+    "num_objects": 48
+  },
+  {
+    "image_id": "0000215_03226_d_0000264",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000215_03226_d_0000264.jpg",
+    "status": "dropped",
+    "reason": "blur(score=68.5)"
+  },
+  {
+    "image_id": "0000216_00520_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000216_00520_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 648.83,
+    "num_objects": 109
+  },
+  {
+    "image_id": "0000220_01242_d_0000004",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000220_01242_d_0000004.jpg",
+    "status": "passed",
+    "laplacian_var": 1121.27,
+    "num_objects": 37
+  },
+  {
+    "image_id": "0000223_01802_d_0000005",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000223_01802_d_0000005.jpg",
+    "status": "passed",
+    "laplacian_var": 843.02,
+    "num_objects": 64
+  },
+  {
+    "image_id": "0000237_00001_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000237_00001_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 3769.31,
+    "num_objects": 15
+  },
+  {
+    "image_id": "0000242_00001_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_00001_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 2139.9,
+    "num_objects": 42
+  },
+  {
+    "image_id": "0000242_00500_d_0000002",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_00500_d_0000002.jpg",
+    "status": "passed",
+    "laplacian_var": 1493.26,
+    "num_objects": 53
+  },
+  {
+    "image_id": "0000242_00627_d_0000003",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_00627_d_0000003.jpg",
+    "status": "passed",
+    "laplacian_var": 1519.75,
+    "num_objects": 45
+  },
+  {
+    "image_id": "0000242_00843_d_0000004",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_00843_d_0000004.jpg",
+    "status": "passed",
+    "laplacian_var": 451.56,
+    "num_objects": 2
+  },
+  {
+    "image_id": "0000242_00963_d_0000005",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_00963_d_0000005.jpg",
+    "status": "passed",
+    "laplacian_var": 2305.98,
+    "num_objects": 13
+  },
+  {
+    "image_id": "0000242_01139_d_0000006",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_01139_d_0000006.jpg",
+    "status": "passed",
+    "laplacian_var": 2299.87,
+    "num_objects": 72
+  },
+  {
+    "image_id": "0000242_01475_d_0000007",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_01475_d_0000007.jpg",
+    "status": "passed",
+    "laplacian_var": 1807.08,
+    "num_objects": 65
+  },
+  {
+    "image_id": "0000242_01912_d_0000008",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_01912_d_0000008.jpg",
+    "status": "passed",
+    "laplacian_var": 1756.53,
+    "num_objects": 50
+  },
+  {
+    "image_id": "0000242_02400_d_0000009",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_02400_d_0000009.jpg",
+    "status": "passed",
+    "laplacian_var": 1935.17,
+    "num_objects": 34
+  },
+  {
+    "image_id": "0000242_02762_d_0000010",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_02762_d_0000010.jpg",
+    "status": "passed",
+    "laplacian_var": 1679.48,
+    "num_objects": 33
+  },
+  {
+    "image_id": "0000242_03199_d_0000011",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_03199_d_0000011.jpg",
+    "status": "passed",
+    "laplacian_var": 2897.6,
+    "num_objects": 9
+  },
+  {
+    "image_id": "0000242_03668_d_0000012",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_03668_d_0000012.jpg",
+    "status": "passed",
+    "laplacian_var": 3665.33,
+    "num_objects": 41
+  },
+  {
+    "image_id": "0000242_04116_d_0000013",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_04116_d_0000013.jpg",
+    "status": "passed",
+    "laplacian_var": 4235.8,
+    "num_objects": 8
+  },
+  {
+    "image_id": "0000242_04600_d_0000014",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_04600_d_0000014.jpg",
+    "status": "passed",
+    "laplacian_var": 4312.85,
+    "num_objects": 29
+  },
+  {
+    "image_id": "0000242_05059_d_0000015",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_05059_d_0000015.jpg",
+    "status": "passed",
+    "laplacian_var": 4146.74,
+    "num_objects": 37
+  },
+  {
+    "image_id": "0000242_05570_d_0000016",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_05570_d_0000016.jpg",
+    "status": "passed",
+    "laplacian_var": 2929.08,
+    "num_objects": 32
+  },
+  {
+    "image_id": "0000242_06010_d_0000017",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_06010_d_0000017.jpg",
+    "status": "passed",
+    "laplacian_var": 3131.85,
+    "num_objects": 41
+  },
+  {
+    "image_id": "0000242_06452_d_0000018",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000242_06452_d_0000018.jpg",
+    "status": "passed",
+    "laplacian_var": 3512.33,
+    "num_objects": 12
+  },
+  {
+    "image_id": "0000244_00001_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000244_00001_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 2202.52,
+    "num_objects": 47
+  },
+  {
+    "image_id": "0000244_00500_d_0000002",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000244_00500_d_0000002.jpg",
+    "status": "passed",
+    "laplacian_var": 2081.99,
+    "num_objects": 32
+  },
+  {
+    "image_id": "0000244_01000_d_0000003",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000244_01000_d_0000003.jpg",
+    "status": "passed",
+    "laplacian_var": 3096.67,
+    "num_objects": 122
+  },
+  {
+    "image_id": "0000244_01500_d_0000004",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000244_01500_d_0000004.jpg",
+    "status": "passed",
+    "laplacian_var": 2466.71,
+    "num_objects": 96
+  },
+  {
+    "image_id": "0000244_02000_d_0000005",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000244_02000_d_0000005.jpg",
+    "status": "passed",
+    "laplacian_var": 3261.34,
+    "num_objects": 129
+  },
+  {
+    "image_id": "0000244_02500_d_0000006",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000244_02500_d_0000006.jpg",
+    "status": "passed",
+    "laplacian_var": 2053.65,
+    "num_objects": 113
+  },
+  {
+    "image_id": "0000244_03000_d_0000007",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000244_03000_d_0000007.jpg",
+    "status": "passed",
+    "laplacian_var": 1795.56,
+    "num_objects": 44
+  },
+  {
+    "image_id": "0000244_03500_d_0000008",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000244_03500_d_0000008.jpg",
+    "status": "passed",
+    "laplacian_var": 2500.98,
+    "num_objects": 146
+  },
+  {
+    "image_id": "0000244_04000_d_0000009",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000244_04000_d_0000009.jpg",
+    "status": "passed",
+    "laplacian_var": 2967.25,
+    "num_objects": 57
+  },
+  {
+    "image_id": "0000244_04400_d_0000010",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000244_04400_d_0000010.jpg",
+    "status": "passed",
+    "laplacian_var": 2870.04,
+    "num_objects": 101
+  },
+  {
+    "image_id": "0000244_04900_d_0000011",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000244_04900_d_0000011.jpg",
+    "status": "passed",
+    "laplacian_var": 3042.04,
+    "num_objects": 106
+  },
+  {
+    "image_id": "0000244_05400_d_0000012",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000244_05400_d_0000012.jpg",
+    "status": "passed",
+    "laplacian_var": 2266.81,
+    "num_objects": 90
+  },
+  {
+    "image_id": "0000244_05900_d_0000013",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000244_05900_d_0000013.jpg",
+    "status": "passed",
+    "laplacian_var": 2381.09,
+    "num_objects": 66
+  },
+  {
+    "image_id": "0000244_06388_d_0000014",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000244_06388_d_0000014.jpg",
+    "status": "passed",
+    "laplacian_var": 2743.42,
+    "num_objects": 46
+  },
+  {
+    "image_id": "0000249_00001_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000249_00001_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 2115.05,
+    "num_objects": 80
+  },
+  {
+    "image_id": "0000249_00235_d_0000002",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000249_00235_d_0000002.jpg",
+    "status": "passed",
+    "laplacian_var": 2148.56,
+    "num_objects": 85
+  },
+  {
+    "image_id": "0000249_00603_d_0000003",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000249_00603_d_0000003.jpg",
+    "status": "passed",
+    "laplacian_var": 2113.43,
+    "num_objects": 48
+  },
+  {
+    "image_id": "0000249_01100_d_0000004",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000249_01100_d_0000004.jpg",
+    "status": "passed",
+    "laplacian_var": 4576.37,
+    "num_objects": 27
+  },
+  {
+    "image_id": "0000249_01514_d_0000005",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000249_01514_d_0000005.jpg",
+    "status": "passed",
+    "laplacian_var": 3996.72,
+    "num_objects": 51
+  },
+  {
+    "image_id": "0000249_01635_d_0000006",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000249_01635_d_0000006.jpg",
+    "status": "passed",
+    "laplacian_var": 2251.68,
+    "num_objects": 80
+  },
+  {
+    "image_id": "0000249_02073_d_0000007",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000249_02073_d_0000007.jpg",
+    "status": "passed",
+    "laplacian_var": 3291.19,
+    "num_objects": 67
+  },
+  {
+    "image_id": "0000249_02468_d_0000008",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000249_02468_d_0000008.jpg",
+    "status": "passed",
+    "laplacian_var": 2800.24,
+    "num_objects": 18
+  },
+  {
+    "image_id": "0000249_02900_d_0000009",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000249_02900_d_0000009.jpg",
+    "status": "passed",
+    "laplacian_var": 2845.9,
+    "num_objects": 101
+  },
+  {
+    "image_id": "0000249_03400_d_0000010",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000249_03400_d_0000010.jpg",
+    "status": "passed",
+    "laplacian_var": 3053.99,
+    "num_objects": 92
+  },
+  {
+    "image_id": "0000249_03900_d_0000011",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000249_03900_d_0000011.jpg",
+    "status": "passed",
+    "laplacian_var": 2296.12,
+    "num_objects": 85
+  },
+  {
+    "image_id": "0000253_00001_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000253_00001_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 2049.15,
+    "num_objects": 106
+  },
+  {
+    "image_id": "0000256_00715_d_0000019",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000256_00715_d_0000019.jpg",
+    "status": "passed",
+    "laplacian_var": 1411.42,
+    "num_objects": 91
+  },
+  {
+    "image_id": "0000256_02173_d_0000030",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000256_02173_d_0000030.jpg",
+    "status": "passed",
+    "laplacian_var": 1558.45,
+    "num_objects": 50
+  },
+  {
+    "image_id": "0000263_02401_d_0000179",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000263_02401_d_0000179.jpg",
+    "status": "passed",
+    "laplacian_var": 290.05,
+    "num_objects": 17
+  },
+  {
+    "image_id": "0000269_00001_d_0000348",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000269_00001_d_0000348.jpg",
+    "status": "passed",
+    "laplacian_var": 1158.74,
+    "num_objects": 128
+  },
+  {
+    "image_id": "0000269_00201_d_0000349",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000269_00201_d_0000349.jpg",
+    "status": "passed",
+    "laplacian_var": 948.24,
+    "num_objects": 47
+  },
+  {
+    "image_id": "0000269_00601_d_0000351",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000269_00601_d_0000351.jpg",
+    "status": "passed",
+    "laplacian_var": 895.32,
+    "num_objects": 93
+  },
+  {
+    "image_id": "0000271_00001_d_0000374",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_00001_d_0000374.jpg",
+    "status": "passed",
+    "laplacian_var": 876.13,
+    "num_objects": 58
+  },
+  {
+    "image_id": "0000271_00201_d_0000375",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_00201_d_0000375.jpg",
+    "status": "passed",
+    "laplacian_var": 730.36,
+    "num_objects": 75
+  },
+  {
+    "image_id": "0000271_00401_d_0000376",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_00401_d_0000376.jpg",
+    "status": "passed",
+    "laplacian_var": 1145.32,
+    "num_objects": 25
+  },
+  {
+    "image_id": "0000271_00601_d_0000377",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_00601_d_0000377.jpg",
+    "status": "passed",
+    "laplacian_var": 941.81,
+    "num_objects": 79
+  },
+  {
+    "image_id": "0000271_00801_d_0000378",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_00801_d_0000378.jpg",
+    "status": "passed",
+    "laplacian_var": 501.35,
+    "num_objects": 63
+  },
+  {
+    "image_id": "0000271_01201_d_0000379",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_01201_d_0000379.jpg",
+    "status": "passed",
+    "laplacian_var": 613.66,
+    "num_objects": 59
+  },
+  {
+    "image_id": "0000271_01401_d_0000380",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_01401_d_0000380.jpg",
+    "status": "passed",
+    "laplacian_var": 748.22,
+    "num_objects": 55
+  },
+  {
+    "image_id": "0000271_01601_d_0000381",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_01601_d_0000381.jpg",
+    "status": "passed",
+    "laplacian_var": 1383.06,
+    "num_objects": 48
+  },
+  {
+    "image_id": "0000271_02401_d_0000385",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_02401_d_0000385.jpg",
+    "status": "passed",
+    "laplacian_var": 761.47,
+    "num_objects": 84
+  },
+  {
+    "image_id": "0000271_02601_d_0000386",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_02601_d_0000386.jpg",
+    "status": "passed",
+    "laplacian_var": 510.81,
+    "num_objects": 79
+  },
+  {
+    "image_id": "0000271_03001_d_0000387",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_03001_d_0000387.jpg",
+    "status": "passed",
+    "laplacian_var": 751.07,
+    "num_objects": 56
+  },
+  {
+    "image_id": "0000271_03801_d_0000391",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_03801_d_0000391.jpg",
+    "status": "passed",
+    "laplacian_var": 740.67,
+    "num_objects": 57
+  },
+  {
+    "image_id": "0000271_04401_d_0000394",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_04401_d_0000394.jpg",
+    "status": "passed",
+    "laplacian_var": 663.48,
+    "num_objects": 86
+  },
+  {
+    "image_id": "0000271_04801_d_0000396",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_04801_d_0000396.jpg",
+    "status": "passed",
+    "laplacian_var": 679.6,
+    "num_objects": 50
+  },
+  {
+    "image_id": "0000271_05001_d_0000397",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_05001_d_0000397.jpg",
+    "status": "passed",
+    "laplacian_var": 655.13,
+    "num_objects": 90
+  },
+  {
+    "image_id": "0000271_05201_d_0000398",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_05201_d_0000398.jpg",
+    "status": "passed",
+    "laplacian_var": 623.74,
+    "num_objects": 70
+  },
+  {
+    "image_id": "0000271_05401_d_0000399",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_05401_d_0000399.jpg",
+    "status": "passed",
+    "laplacian_var": 584.5,
+    "num_objects": 71
+  },
+  {
+    "image_id": "0000271_05601_d_0000400",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_05601_d_0000400.jpg",
+    "status": "passed",
+    "laplacian_var": 691.73,
+    "num_objects": 86
+  },
+  {
+    "image_id": "0000271_05801_d_0000401",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_05801_d_0000401.jpg",
+    "status": "passed",
+    "laplacian_var": 627.81,
+    "num_objects": 104
+  },
+  {
+    "image_id": "0000271_06001_d_0000402",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_06001_d_0000402.jpg",
+    "status": "passed",
+    "laplacian_var": 841.38,
+    "num_objects": 158
+  },
+  {
+    "image_id": "0000271_06201_d_0000403",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_06201_d_0000403.jpg",
+    "status": "passed",
+    "laplacian_var": 797.99,
+    "num_objects": 142
+  },
+  {
+    "image_id": "0000271_06401_d_0000404",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_06401_d_0000404.jpg",
+    "status": "passed",
+    "laplacian_var": 799.73,
+    "num_objects": 128
+  },
+  {
+    "image_id": "0000271_06601_d_0000405",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_06601_d_0000405.jpg",
+    "status": "passed",
+    "laplacian_var": 830.94,
+    "num_objects": 105
+  },
+  {
+    "image_id": "0000271_06801_d_0000406",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_06801_d_0000406.jpg",
+    "status": "passed",
+    "laplacian_var": 647.87,
+    "num_objects": 95
+  },
+  {
+    "image_id": "0000271_07001_d_0000407",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_07001_d_0000407.jpg",
+    "status": "passed",
+    "laplacian_var": 600.64,
+    "num_objects": 58
+  },
+  {
+    "image_id": "0000271_07201_d_0000408",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_07201_d_0000408.jpg",
+    "status": "passed",
+    "laplacian_var": 503.57,
+    "num_objects": 25
+  },
+  {
+    "image_id": "0000271_07401_d_0000409",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000271_07401_d_0000409.jpg",
+    "status": "passed",
+    "laplacian_var": 888.69,
+    "num_objects": 42
+  },
+  {
+    "image_id": "0000273_05601_d_0000466",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000273_05601_d_0000466.jpg",
+    "status": "passed",
+    "laplacian_var": 1569.94,
+    "num_objects": 32
+  },
+  {
+    "image_id": "0000276_00001_d_0000507",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_00001_d_0000507.jpg",
+    "status": "passed",
+    "laplacian_var": 968.38,
+    "num_objects": 55
+  },
+  {
+    "image_id": "0000276_00401_d_0000509",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_00401_d_0000509.jpg",
+    "status": "passed",
+    "laplacian_var": 976.96,
+    "num_objects": 62
+  },
+  {
+    "image_id": "0000276_00601_d_0000510",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_00601_d_0000510.jpg",
+    "status": "passed",
+    "laplacian_var": 1656.07,
+    "num_objects": 37
+  },
+  {
+    "image_id": "0000276_01001_d_0000512",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_01001_d_0000512.jpg",
+    "status": "passed",
+    "laplacian_var": 1732.44,
+    "num_objects": 44
+  },
+  {
+    "image_id": "0000276_01201_d_0000513",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_01201_d_0000513.jpg",
+    "status": "passed",
+    "laplacian_var": 1560.02,
+    "num_objects": 29
+  },
+  {
+    "image_id": "0000276_01401_d_0000514",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_01401_d_0000514.jpg",
+    "status": "passed",
+    "laplacian_var": 1675.55,
+    "num_objects": 25
+  },
+  {
+    "image_id": "0000276_01801_d_0000516",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_01801_d_0000516.jpg",
+    "status": "passed",
+    "laplacian_var": 1666.48,
+    "num_objects": 21
+  },
+  {
+    "image_id": "0000276_02001_d_0000517",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_02001_d_0000517.jpg",
+    "status": "passed",
+    "laplacian_var": 1313.44,
+    "num_objects": 15
+  },
+  {
+    "image_id": "0000276_02201_d_0000518",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_02201_d_0000518.jpg",
+    "status": "passed",
+    "laplacian_var": 2005.82,
+    "num_objects": 41
+  },
+  {
+    "image_id": "0000276_02401_d_0000519",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_02401_d_0000519.jpg",
+    "status": "passed",
+    "laplacian_var": 2093.84,
+    "num_objects": 48
+  },
+  {
+    "image_id": "0000276_02601_d_0000520",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_02601_d_0000520.jpg",
+    "status": "passed",
+    "laplacian_var": 1519.56,
+    "num_objects": 32
+  },
+  {
+    "image_id": "0000276_02801_d_0000521",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_02801_d_0000521.jpg",
+    "status": "passed",
+    "laplacian_var": 2062.98,
+    "num_objects": 37
+  },
+  {
+    "image_id": "0000276_03001_d_0000522",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_03001_d_0000522.jpg",
+    "status": "passed",
+    "laplacian_var": 1733.89,
+    "num_objects": 38
+  },
+  {
+    "image_id": "0000276_03201_d_0000523",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_03201_d_0000523.jpg",
+    "status": "passed",
+    "laplacian_var": 1954.0,
+    "num_objects": 61
+  },
+  {
+    "image_id": "0000276_03401_d_0000524",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_03401_d_0000524.jpg",
+    "status": "passed",
+    "laplacian_var": 1833.47,
+    "num_objects": 61
+  },
+  {
+    "image_id": "0000276_03601_d_0000525",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_03601_d_0000525.jpg",
+    "status": "passed",
+    "laplacian_var": 1568.26,
+    "num_objects": 46
+  },
+  {
+    "image_id": "0000276_03801_d_0000526",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_03801_d_0000526.jpg",
+    "status": "passed",
+    "laplacian_var": 905.89,
+    "num_objects": 64
+  },
+  {
+    "image_id": "0000276_04001_d_0000527",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_04001_d_0000527.jpg",
+    "status": "passed",
+    "laplacian_var": 2149.14,
+    "num_objects": 54
+  },
+  {
+    "image_id": "0000276_04201_d_0000528",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_04201_d_0000528.jpg",
+    "status": "passed",
+    "laplacian_var": 2069.48,
+    "num_objects": 59
+  },
+  {
+    "image_id": "0000276_04401_d_0000529",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_04401_d_0000529.jpg",
+    "status": "passed",
+    "laplacian_var": 2214.66,
+    "num_objects": 40
+  },
+  {
+    "image_id": "0000276_04601_d_0000530",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_04601_d_0000530.jpg",
+    "status": "passed",
+    "laplacian_var": 2292.32,
+    "num_objects": 10
+  },
+  {
+    "image_id": "0000276_04801_d_0000531",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_04801_d_0000531.jpg",
+    "status": "passed",
+    "laplacian_var": 2441.46,
+    "num_objects": 10
+  },
+  {
+    "image_id": "0000276_05001_d_0000532",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_05001_d_0000532.jpg",
+    "status": "passed",
+    "laplacian_var": 2698.34,
+    "num_objects": 7
+  },
+  {
+    "image_id": "0000276_05201_d_0000533",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_05201_d_0000533.jpg",
+    "status": "passed",
+    "laplacian_var": 2311.11,
+    "num_objects": 6
+  },
+  {
+    "image_id": "0000276_05601_d_0000535",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_05601_d_0000535.jpg",
+    "status": "passed",
+    "laplacian_var": 2054.65,
+    "num_objects": 10
+  },
+  {
+    "image_id": "0000276_05801_d_0000536",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_05801_d_0000536.jpg",
+    "status": "passed",
+    "laplacian_var": 2190.95,
+    "num_objects": 7
+  },
+  {
+    "image_id": "0000276_06001_d_0000537",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000276_06001_d_0000537.jpg",
+    "status": "passed",
+    "laplacian_var": 2193.54,
+    "num_objects": 14
+  },
+  {
+    "image_id": "0000277_00001_d_0000539",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_00001_d_0000539.jpg",
+    "status": "passed",
+    "laplacian_var": 1273.76,
+    "num_objects": 85
+  },
+  {
+    "image_id": "0000277_00201_d_0000540",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_00201_d_0000540.jpg",
+    "status": "passed",
+    "laplacian_var": 877.77,
+    "num_objects": 83
+  },
+  {
+    "image_id": "0000277_00401_d_0000541",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_00401_d_0000541.jpg",
+    "status": "passed",
+    "laplacian_var": 402.24,
+    "num_objects": 117
+  },
+  {
+    "image_id": "0000277_01401_d_0000546",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_01401_d_0000546.jpg",
+    "status": "passed",
+    "laplacian_var": 471.51,
+    "num_objects": 78
+  },
+  {
+    "image_id": "0000277_01601_d_0000547",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_01601_d_0000547.jpg",
+    "status": "passed",
+    "laplacian_var": 669.91,
+    "num_objects": 78
+  },
+  {
+    "image_id": "0000277_01801_d_0000548",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_01801_d_0000548.jpg",
+    "status": "passed",
+    "laplacian_var": 805.99,
+    "num_objects": 101
+  },
+  {
+    "image_id": "0000277_02001_d_0000549",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_02001_d_0000549.jpg",
+    "status": "passed",
+    "laplacian_var": 761.6,
+    "num_objects": 83
+  },
+  {
+    "image_id": "0000277_02201_d_0000550",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_02201_d_0000550.jpg",
+    "status": "passed",
+    "laplacian_var": 739.11,
+    "num_objects": 69
+  },
+  {
+    "image_id": "0000277_02401_d_0000551",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_02401_d_0000551.jpg",
+    "status": "passed",
+    "laplacian_var": 738.25,
+    "num_objects": 91
+  },
+  {
+    "image_id": "0000277_02601_d_0000552",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_02601_d_0000552.jpg",
+    "status": "passed",
+    "laplacian_var": 830.58,
+    "num_objects": 122
+  },
+  {
+    "image_id": "0000277_03201_d_0000554",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_03201_d_0000554.jpg",
+    "status": "passed",
+    "laplacian_var": 610.11,
+    "num_objects": 85
+  },
+  {
+    "image_id": "0000277_03401_d_0000555",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_03401_d_0000555.jpg",
+    "status": "passed",
+    "laplacian_var": 786.33,
+    "num_objects": 103
+  },
+  {
+    "image_id": "0000277_03601_d_0000556",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_03601_d_0000556.jpg",
+    "status": "passed",
+    "laplacian_var": 562.11,
+    "num_objects": 60
+  },
+  {
+    "image_id": "0000277_04001_d_0000558",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_04001_d_0000558.jpg",
+    "status": "passed",
+    "laplacian_var": 749.14,
+    "num_objects": 75
+  },
+  {
+    "image_id": "0000277_04201_d_0000559",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_04201_d_0000559.jpg",
+    "status": "passed",
+    "laplacian_var": 844.64,
+    "num_objects": 67
+  },
+  {
+    "image_id": "0000277_04401_d_0000560",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_04401_d_0000560.jpg",
+    "status": "passed",
+    "laplacian_var": 727.63,
+    "num_objects": 71
+  },
+  {
+    "image_id": "0000277_04601_d_0000561",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_04601_d_0000561.jpg",
+    "status": "passed",
+    "laplacian_var": 674.95,
+    "num_objects": 95
+  },
+  {
+    "image_id": "0000277_05001_d_0000562",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000277_05001_d_0000562.jpg",
+    "status": "passed",
+    "laplacian_var": 754.38,
+    "num_objects": 97
+  },
+  {
+    "image_id": "0000280_00001_d_0000612",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_00001_d_0000612.jpg",
+    "status": "passed",
+    "laplacian_var": 1161.73,
+    "num_objects": 87
+  },
+  {
+    "image_id": "0000280_00201_d_0000613",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_00201_d_0000613.jpg",
+    "status": "passed",
+    "laplacian_var": 702.06,
+    "num_objects": 47
+  },
+  {
+    "image_id": "0000280_00401_d_0000614",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_00401_d_0000614.jpg",
+    "status": "passed",
+    "laplacian_var": 996.39,
+    "num_objects": 59
+  },
+  {
+    "image_id": "0000280_00601_d_0000615",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_00601_d_0000615.jpg",
+    "status": "passed",
+    "laplacian_var": 1177.31,
+    "num_objects": 74
+  },
+  {
+    "image_id": "0000280_00801_d_0000616",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_00801_d_0000616.jpg",
+    "status": "passed",
+    "laplacian_var": 1399.23,
+    "num_objects": 70
+  },
+  {
+    "image_id": "0000280_01001_d_0000617",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_01001_d_0000617.jpg",
+    "status": "passed",
+    "laplacian_var": 1294.79,
+    "num_objects": 126
+  },
+  {
+    "image_id": "0000280_01201_d_0000618",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_01201_d_0000618.jpg",
+    "status": "passed",
+    "laplacian_var": 1169.81,
+    "num_objects": 134
+  },
+  {
+    "image_id": "0000280_01401_d_0000619",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_01401_d_0000619.jpg",
+    "status": "passed",
+    "laplacian_var": 1182.51,
+    "num_objects": 110
+  },
+  {
+    "image_id": "0000280_01601_d_0000620",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_01601_d_0000620.jpg",
+    "status": "passed",
+    "laplacian_var": 1298.26,
+    "num_objects": 103
+  },
+  {
+    "image_id": "0000280_01801_d_0000621",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_01801_d_0000621.jpg",
+    "status": "passed",
+    "laplacian_var": 1028.71,
+    "num_objects": 90
+  },
+  {
+    "image_id": "0000280_02001_d_0000622",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_02001_d_0000622.jpg",
+    "status": "passed",
+    "laplacian_var": 1086.23,
+    "num_objects": 66
+  },
+  {
+    "image_id": "0000280_02201_d_0000623",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_02201_d_0000623.jpg",
+    "status": "passed",
+    "laplacian_var": 1041.66,
+    "num_objects": 80
+  },
+  {
+    "image_id": "0000280_02401_d_0000624",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_02401_d_0000624.jpg",
+    "status": "passed",
+    "laplacian_var": 1059.72,
+    "num_objects": 92
+  },
+  {
+    "image_id": "0000280_02601_d_0000625",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_02601_d_0000625.jpg",
+    "status": "passed",
+    "laplacian_var": 1316.24,
+    "num_objects": 73
+  },
+  {
+    "image_id": "0000280_02801_d_0000626",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_02801_d_0000626.jpg",
+    "status": "passed",
+    "laplacian_var": 1166.21,
+    "num_objects": 55
+  },
+  {
+    "image_id": "0000280_03001_d_0000627",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_03001_d_0000627.jpg",
+    "status": "passed",
+    "laplacian_var": 1053.27,
+    "num_objects": 88
+  },
+  {
+    "image_id": "0000280_03201_d_0000628",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_03201_d_0000628.jpg",
+    "status": "passed",
+    "laplacian_var": 1052.21,
+    "num_objects": 82
+  },
+  {
+    "image_id": "0000280_03401_d_0000629",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000280_03401_d_0000629.jpg",
+    "status": "passed",
+    "laplacian_var": 1028.73,
+    "num_objects": 83
+  },
+  {
+    "image_id": "0000283_00401_d_0000676",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000283_00401_d_0000676.jpg",
+    "status": "passed",
+    "laplacian_var": 522.14,
+    "num_objects": 6
+  },
+  {
+    "image_id": "0000283_00601_d_0000677",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000283_00601_d_0000677.jpg",
+    "status": "passed",
+    "laplacian_var": 1162.25,
+    "num_objects": 9
+  },
+  {
+    "image_id": "0000283_00801_d_0000678",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000283_00801_d_0000678.jpg",
+    "status": "passed",
+    "laplacian_var": 1229.36,
+    "num_objects": 8
+  },
+  {
+    "image_id": "0000283_01001_d_0000679",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000283_01001_d_0000679.jpg",
+    "status": "passed",
+    "laplacian_var": 1058.9,
+    "num_objects": 4
+  },
+  {
+    "image_id": "0000287_00001_d_0000759",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_00001_d_0000759.jpg",
+    "status": "passed",
+    "laplacian_var": 1236.2,
+    "num_objects": 52
+  },
+  {
+    "image_id": "0000287_00201_d_0000760",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_00201_d_0000760.jpg",
+    "status": "passed",
+    "laplacian_var": 888.38,
+    "num_objects": 51
+  },
+  {
+    "image_id": "0000287_00401_d_0000761",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_00401_d_0000761.jpg",
+    "status": "passed",
+    "laplacian_var": 877.94,
+    "num_objects": 44
+  },
+  {
+    "image_id": "0000287_00601_d_0000762",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_00601_d_0000762.jpg",
+    "status": "passed",
+    "laplacian_var": 856.87,
+    "num_objects": 93
+  },
+  {
+    "image_id": "0000287_00801_d_0000763",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_00801_d_0000763.jpg",
+    "status": "passed",
+    "laplacian_var": 1130.52,
+    "num_objects": 58
+  },
+  {
+    "image_id": "0000287_01001_d_0000764",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_01001_d_0000764.jpg",
+    "status": "passed",
+    "laplacian_var": 856.35,
+    "num_objects": 71
+  },
+  {
+    "image_id": "0000287_01201_d_0000765",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_01201_d_0000765.jpg",
+    "status": "passed",
+    "laplacian_var": 772.08,
+    "num_objects": 68
+  },
+  {
+    "image_id": "0000287_01401_d_0000766",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_01401_d_0000766.jpg",
+    "status": "passed",
+    "laplacian_var": 892.16,
+    "num_objects": 68
+  },
+  {
+    "image_id": "0000287_01601_d_0000767",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_01601_d_0000767.jpg",
+    "status": "passed",
+    "laplacian_var": 1225.9,
+    "num_objects": 74
+  },
+  {
+    "image_id": "0000287_01801_d_0000768",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_01801_d_0000768.jpg",
+    "status": "passed",
+    "laplacian_var": 1145.42,
+    "num_objects": 56
+  },
+  {
+    "image_id": "0000287_02001_d_0000769",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_02001_d_0000769.jpg",
+    "status": "passed",
+    "laplacian_var": 1558.46,
+    "num_objects": 44
+  },
+  {
+    "image_id": "0000287_02201_d_0000770",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_02201_d_0000770.jpg",
+    "status": "passed",
+    "laplacian_var": 977.38,
+    "num_objects": 27
+  },
+  {
+    "image_id": "0000287_02401_d_0000771",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_02401_d_0000771.jpg",
+    "status": "passed",
+    "laplacian_var": 985.21,
+    "num_objects": 18
+  },
+  {
+    "image_id": "0000287_02601_d_0000772",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_02601_d_0000772.jpg",
+    "status": "passed",
+    "laplacian_var": 2614.67,
+    "num_objects": 44
+  },
+  {
+    "image_id": "0000287_02801_d_0000773",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_02801_d_0000773.jpg",
+    "status": "passed",
+    "laplacian_var": 1295.85,
+    "num_objects": 60
+  },
+  {
+    "image_id": "0000287_03001_d_0000774",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_03001_d_0000774.jpg",
+    "status": "passed",
+    "laplacian_var": 863.21,
+    "num_objects": 18
+  },
+  {
+    "image_id": "0000287_03401_d_0000776",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_03401_d_0000776.jpg",
+    "status": "passed",
+    "laplacian_var": 2568.76,
+    "num_objects": 56
+  },
+  {
+    "image_id": "0000287_04601_d_0000780",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_04601_d_0000780.jpg",
+    "status": "passed",
+    "laplacian_var": 1705.72,
+    "num_objects": 88
+  },
+  {
+    "image_id": "0000287_04801_d_0000781",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_04801_d_0000781.jpg",
+    "status": "passed",
+    "laplacian_var": 1364.12,
+    "num_objects": 53
+  },
+  {
+    "image_id": "0000287_05001_d_0000782",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000287_05001_d_0000782.jpg",
+    "status": "passed",
+    "laplacian_var": 1225.37,
+    "num_objects": 62
+  },
+  {
+    "image_id": "0000289_00001_d_0000811",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_00001_d_0000811.jpg",
+    "status": "passed",
+    "laplacian_var": 1872.84,
+    "num_objects": 41
+  },
+  {
+    "image_id": "0000289_00201_d_0000812",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_00201_d_0000812.jpg",
+    "status": "passed",
+    "laplacian_var": 1247.48,
+    "num_objects": 43
+  },
+  {
+    "image_id": "0000289_00401_d_0000813",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_00401_d_0000813.jpg",
+    "status": "passed",
+    "laplacian_var": 596.1,
+    "num_objects": 53
+  },
+  {
+    "image_id": "0000289_00601_d_0000814",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_00601_d_0000814.jpg",
+    "status": "passed",
+    "laplacian_var": 684.58,
+    "num_objects": 43
+  },
+  {
+    "image_id": "0000289_00801_d_0000815",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_00801_d_0000815.jpg",
+    "status": "passed",
+    "laplacian_var": 758.68,
+    "num_objects": 39
+  },
+  {
+    "image_id": "0000289_01001_d_0000816",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_01001_d_0000816.jpg",
+    "status": "passed",
+    "laplacian_var": 836.56,
+    "num_objects": 33
+  },
+  {
+    "image_id": "0000289_01201_d_0000817",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_01201_d_0000817.jpg",
+    "status": "passed",
+    "laplacian_var": 709.85,
+    "num_objects": 43
+  },
+  {
+    "image_id": "0000289_01401_d_0000818",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_01401_d_0000818.jpg",
+    "status": "passed",
+    "laplacian_var": 1073.61,
+    "num_objects": 39
+  },
+  {
+    "image_id": "0000289_01601_d_0000819",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_01601_d_0000819.jpg",
+    "status": "passed",
+    "laplacian_var": 977.1,
+    "num_objects": 44
+  },
+  {
+    "image_id": "0000289_02001_d_0000821",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_02001_d_0000821.jpg",
+    "status": "passed",
+    "laplacian_var": 1210.26,
+    "num_objects": 43
+  },
+  {
+    "image_id": "0000289_02201_d_0000822",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_02201_d_0000822.jpg",
+    "status": "passed",
+    "laplacian_var": 1162.74,
+    "num_objects": 29
+  },
+  {
+    "image_id": "0000289_02401_d_0000823",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_02401_d_0000823.jpg",
+    "status": "passed",
+    "laplacian_var": 928.32,
+    "num_objects": 49
+  },
+  {
+    "image_id": "0000289_02601_d_0000824",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_02601_d_0000824.jpg",
+    "status": "passed",
+    "laplacian_var": 909.58,
+    "num_objects": 58
+  },
+  {
+    "image_id": "0000289_03001_d_0000826",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_03001_d_0000826.jpg",
+    "status": "passed",
+    "laplacian_var": 830.99,
+    "num_objects": 61
+  },
+  {
+    "image_id": "0000289_03201_d_0000827",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_03201_d_0000827.jpg",
+    "status": "passed",
+    "laplacian_var": 763.69,
+    "num_objects": 81
+  },
+  {
+    "image_id": "0000289_03401_d_0000828",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_03401_d_0000828.jpg",
+    "status": "passed",
+    "laplacian_var": 710.5,
+    "num_objects": 54
+  },
+  {
+    "image_id": "0000289_03601_d_0000829",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_03601_d_0000829.jpg",
+    "status": "passed",
+    "laplacian_var": 884.37,
+    "num_objects": 77
+  },
+  {
+    "image_id": "0000289_03801_d_0000830",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_03801_d_0000830.jpg",
+    "status": "passed",
+    "laplacian_var": 1067.51,
+    "num_objects": 100
+  },
+  {
+    "image_id": "0000289_04001_d_0000831",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_04001_d_0000831.jpg",
+    "status": "passed",
+    "laplacian_var": 634.76,
+    "num_objects": 80
+  },
+  {
+    "image_id": "0000289_04201_d_0000832",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_04201_d_0000832.jpg",
+    "status": "passed",
+    "laplacian_var": 422.21,
+    "num_objects": 88
+  },
+  {
+    "image_id": "0000289_04401_d_0000833",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_04401_d_0000833.jpg",
+    "status": "passed",
+    "laplacian_var": 538.7,
+    "num_objects": 100
+  },
+  {
+    "image_id": "0000289_04601_d_0000834",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_04601_d_0000834.jpg",
+    "status": "passed",
+    "laplacian_var": 630.35,
+    "num_objects": 93
+  },
+  {
+    "image_id": "0000289_04801_d_0000835",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_04801_d_0000835.jpg",
+    "status": "passed",
+    "laplacian_var": 775.52,
+    "num_objects": 71
+  },
+  {
+    "image_id": "0000289_05001_d_0000836",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_05001_d_0000836.jpg",
+    "status": "passed",
+    "laplacian_var": 904.05,
+    "num_objects": 65
+  },
+  {
+    "image_id": "0000289_05201_d_0000837",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_05201_d_0000837.jpg",
+    "status": "passed",
+    "laplacian_var": 752.54,
+    "num_objects": 79
+  },
+  {
+    "image_id": "0000289_05401_d_0000838",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_05401_d_0000838.jpg",
+    "status": "passed",
+    "laplacian_var": 819.88,
+    "num_objects": 81
+  },
+  {
+    "image_id": "0000289_05601_d_0000839",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_05601_d_0000839.jpg",
+    "status": "passed",
+    "laplacian_var": 712.54,
+    "num_objects": 107
+  },
+  {
+    "image_id": "0000289_05801_d_0000840",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_05801_d_0000840.jpg",
+    "status": "passed",
+    "laplacian_var": 775.0,
+    "num_objects": 78
+  },
+  {
+    "image_id": "0000289_06001_d_0000841",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_06001_d_0000841.jpg",
+    "status": "passed",
+    "laplacian_var": 745.12,
+    "num_objects": 80
+  },
+  {
+    "image_id": "0000289_06201_d_0000842",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_06201_d_0000842.jpg",
+    "status": "passed",
+    "laplacian_var": 657.55,
+    "num_objects": 79
+  },
+  {
+    "image_id": "0000289_06401_d_0000843",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_06401_d_0000843.jpg",
+    "status": "passed",
+    "laplacian_var": 780.13,
+    "num_objects": 79
+  },
+  {
+    "image_id": "0000289_06601_d_0000844",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_06601_d_0000844.jpg",
+    "status": "passed",
+    "laplacian_var": 991.42,
+    "num_objects": 88
+  },
+  {
+    "image_id": "0000289_06801_d_0000845",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_06801_d_0000845.jpg",
+    "status": "passed",
+    "laplacian_var": 1579.28,
+    "num_objects": 98
+  },
+  {
+    "image_id": "0000289_07001_d_0000846",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_07001_d_0000846.jpg",
+    "status": "passed",
+    "laplacian_var": 2029.82,
+    "num_objects": 74
+  },
+  {
+    "image_id": "0000289_07201_d_0000847",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000289_07201_d_0000847.jpg",
+    "status": "passed",
+    "laplacian_var": 2407.27,
+    "num_objects": 40
+  },
+  {
+    "image_id": "0000290_04001_d_0000867",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000290_04001_d_0000867.jpg",
+    "status": "passed",
+    "laplacian_var": 1547.09,
+    "num_objects": 79
+  },
+  {
+    "image_id": "0000291_00001_d_0000868",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_00001_d_0000868.jpg",
+    "status": "passed",
+    "laplacian_var": 1534.69,
+    "num_objects": 178
+  },
+  {
+    "image_id": "0000291_00201_d_0000869",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_00201_d_0000869.jpg",
+    "status": "passed",
+    "laplacian_var": 1403.76,
+    "num_objects": 113
+  },
+  {
+    "image_id": "0000291_00401_d_0000870",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_00401_d_0000870.jpg",
+    "status": "passed",
+    "laplacian_var": 1642.66,
+    "num_objects": 166
+  },
+  {
+    "image_id": "0000291_00601_d_0000871",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_00601_d_0000871.jpg",
+    "status": "passed",
+    "laplacian_var": 1465.34,
+    "num_objects": 120
+  },
+  {
+    "image_id": "0000291_01001_d_0000873",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_01001_d_0000873.jpg",
+    "status": "passed",
+    "laplacian_var": 1310.91,
+    "num_objects": 159
+  },
+  {
+    "image_id": "0000291_01201_d_0000874",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_01201_d_0000874.jpg",
+    "status": "passed",
+    "laplacian_var": 1464.63,
+    "num_objects": 212
+  },
+  {
+    "image_id": "0000291_01401_d_0000875",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_01401_d_0000875.jpg",
+    "status": "passed",
+    "laplacian_var": 1242.56,
+    "num_objects": 154
+  },
+  {
+    "image_id": "0000291_01601_d_0000876",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_01601_d_0000876.jpg",
+    "status": "passed",
+    "laplacian_var": 927.12,
+    "num_objects": 87
+  },
+  {
+    "image_id": "0000291_01801_d_0000877",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_01801_d_0000877.jpg",
+    "status": "passed",
+    "laplacian_var": 1746.93,
+    "num_objects": 113
+  },
+  {
+    "image_id": "0000291_02001_d_0000878",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_02001_d_0000878.jpg",
+    "status": "passed",
+    "laplacian_var": 1658.41,
+    "num_objects": 172
+  },
+  {
+    "image_id": "0000291_02201_d_0000879",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_02201_d_0000879.jpg",
+    "status": "passed",
+    "laplacian_var": 1523.55,
+    "num_objects": 149
+  },
+  {
+    "image_id": "0000291_02601_d_0000881",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_02601_d_0000881.jpg",
+    "status": "passed",
+    "laplacian_var": 1385.37,
+    "num_objects": 178
+  },
+  {
+    "image_id": "0000291_03201_d_0000884",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_03201_d_0000884.jpg",
+    "status": "passed",
+    "laplacian_var": 1512.06,
+    "num_objects": 229
+  },
+  {
+    "image_id": "0000291_03401_d_0000885",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_03401_d_0000885.jpg",
+    "status": "passed",
+    "laplacian_var": 1317.39,
+    "num_objects": 187
+  },
+  {
+    "image_id": "0000291_03601_d_0000886",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_03601_d_0000886.jpg",
+    "status": "passed",
+    "laplacian_var": 1065.65,
+    "num_objects": 112
+  },
+  {
+    "image_id": "0000291_03801_d_0000887",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_03801_d_0000887.jpg",
+    "status": "passed",
+    "laplacian_var": 889.96,
+    "num_objects": 191
+  },
+  {
+    "image_id": "0000291_04001_d_0000888",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_04001_d_0000888.jpg",
+    "status": "passed",
+    "laplacian_var": 1214.97,
+    "num_objects": 109
+  },
+  {
+    "image_id": "0000291_04201_d_0000889",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_04201_d_0000889.jpg",
+    "status": "passed",
+    "laplacian_var": 1338.34,
+    "num_objects": 111
+  },
+  {
+    "image_id": "0000291_04401_d_0000890",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_04401_d_0000890.jpg",
+    "status": "passed",
+    "laplacian_var": 1261.8,
+    "num_objects": 126
+  },
+  {
+    "image_id": "0000291_05001_d_0000892",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_05001_d_0000892.jpg",
+    "status": "passed",
+    "laplacian_var": 1144.87,
+    "num_objects": 135
+  },
+  {
+    "image_id": "0000291_05201_d_0000893",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000291_05201_d_0000893.jpg",
+    "status": "passed",
+    "laplacian_var": 1824.48,
+    "num_objects": 207
+  },
+  {
+    "image_id": "0000293_03601_d_0000940",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000293_03601_d_0000940.jpg",
+    "status": "passed",
+    "laplacian_var": 1415.09,
+    "num_objects": 118
+  },
+  {
+    "image_id": "0000295_00000_d_0000021",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000295_00000_d_0000021.jpg",
+    "status": "passed",
+    "laplacian_var": 1267.76,
+    "num_objects": 130
+  },
+  {
+    "image_id": "0000295_00200_d_0000022",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000295_00200_d_0000022.jpg",
+    "status": "passed",
+    "laplacian_var": 1164.19,
+    "num_objects": 78
+  },
+  {
+    "image_id": "0000295_00600_d_0000024",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000295_00600_d_0000024.jpg",
+    "status": "passed",
+    "laplacian_var": 1268.88,
+    "num_objects": 186
+  },
+  {
+    "image_id": "0000295_00800_d_0000025",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000295_00800_d_0000025.jpg",
+    "status": "passed",
+    "laplacian_var": 1372.25,
+    "num_objects": 147
+  },
+  {
+    "image_id": "0000295_01000_d_0000026",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000295_01000_d_0000026.jpg",
+    "status": "passed",
+    "laplacian_var": 1294.71,
+    "num_objects": 251
+  },
+  {
+    "image_id": "0000295_01200_d_0000027",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000295_01200_d_0000027.jpg",
+    "status": "passed",
+    "laplacian_var": 1277.79,
+    "num_objects": 200
+  },
+  {
+    "image_id": "0000295_01400_d_0000028",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000295_01400_d_0000028.jpg",
+    "status": "passed",
+    "laplacian_var": 1435.94,
+    "num_objects": 189
+  },
+  {
+    "image_id": "0000295_01600_d_0000029",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000295_01600_d_0000029.jpg",
+    "status": "passed",
+    "laplacian_var": 1365.46,
+    "num_objects": 138
+  },
+  {
+    "image_id": "0000295_01800_d_0000030",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000295_01800_d_0000030.jpg",
+    "status": "passed",
+    "laplacian_var": 1579.39,
+    "num_objects": 306
+  },
+  {
+    "image_id": "0000295_02000_d_0000031",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000295_02000_d_0000031.jpg",
+    "status": "passed",
+    "laplacian_var": 1634.05,
+    "num_objects": 311
+  },
+  {
+    "image_id": "0000295_02200_d_0000032",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000295_02200_d_0000032.jpg",
+    "status": "passed",
+    "laplacian_var": 1710.44,
+    "num_objects": 193
+  },
+  {
+    "image_id": "0000295_02400_d_0000033",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000295_02400_d_0000033.jpg",
+    "status": "passed",
+    "laplacian_var": 1675.1,
+    "num_objects": 317
+  },
+  {
+    "image_id": "0000295_02900_d_0000034",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000295_02900_d_0000034.jpg",
+    "status": "passed",
+    "laplacian_var": 1302.17,
+    "num_objects": 212
+  },
+  {
+    "image_id": "0000296_00601_d_0000038",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000296_00601_d_0000038.jpg",
+    "status": "passed",
+    "laplacian_var": 1866.7,
+    "num_objects": 91
+  },
+  {
+    "image_id": "0000296_01001_d_0000040",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000296_01001_d_0000040.jpg",
+    "status": "passed",
+    "laplacian_var": 1670.45,
+    "num_objects": 181
+  },
+  {
+    "image_id": "0000300_03201_d_0000154",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000300_03201_d_0000154.jpg",
+    "status": "passed",
+    "laplacian_var": 1419.55,
+    "num_objects": 66
+  },
+  {
+    "image_id": "0000301_00001_d_0000156",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000301_00001_d_0000156.jpg",
+    "status": "passed",
+    "laplacian_var": 1071.89,
+    "num_objects": 96
+  },
+  {
+    "image_id": "0000301_00201_d_0000157",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000301_00201_d_0000157.jpg",
+    "status": "passed",
+    "laplacian_var": 835.79,
+    "num_objects": 90
+  },
+  {
+    "image_id": "0000301_01001_d_0000161",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000301_01001_d_0000161.jpg",
+    "status": "passed",
+    "laplacian_var": 622.85,
+    "num_objects": 64
+  },
+  {
+    "image_id": "0000301_01201_d_0000162",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000301_01201_d_0000162.jpg",
+    "status": "passed",
+    "laplacian_var": 733.48,
+    "num_objects": 61
+  },
+  {
+    "image_id": "0000303_03401_d_0000200",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000303_03401_d_0000200.jpg",
+    "status": "passed",
+    "laplacian_var": 1520.46,
+    "num_objects": 82
+  },
+  {
+    "image_id": "0000308_04401_d_0000327",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000308_04401_d_0000327.jpg",
+    "status": "passed",
+    "laplacian_var": 1011.32,
+    "num_objects": 98
+  },
+  {
+    "image_id": "0000312_00001_d_0000414",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000312_00001_d_0000414.jpg",
+    "status": "passed",
+    "laplacian_var": 1656.7,
+    "num_objects": 112
+  },
+  {
+    "image_id": "0000312_00201_d_0000415",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000312_00201_d_0000415.jpg",
+    "status": "passed",
+    "laplacian_var": 865.02,
+    "num_objects": 108
+  },
+  {
+    "image_id": "0000312_00601_d_0000417",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000312_00601_d_0000417.jpg",
+    "status": "passed",
+    "laplacian_var": 1649.45,
+    "num_objects": 59
+  },
+  {
+    "image_id": "0000312_01001_d_0000419",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000312_01001_d_0000419.jpg",
+    "status": "passed",
+    "laplacian_var": 833.68,
+    "num_objects": 80
+  },
+  {
+    "image_id": "0000312_01201_d_0000420",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000312_01201_d_0000420.jpg",
+    "status": "passed",
+    "laplacian_var": 762.43,
+    "num_objects": 82
+  },
+  {
+    "image_id": "0000312_02201_d_0000425",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000312_02201_d_0000425.jpg",
+    "status": "passed",
+    "laplacian_var": 971.18,
+    "num_objects": 78
+  },
+  {
+    "image_id": "0000312_02401_d_0000426",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000312_02401_d_0000426.jpg",
+    "status": "passed",
+    "laplacian_var": 813.44,
+    "num_objects": 80
+  },
+  {
+    "image_id": "0000312_04201_d_0000435",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000312_04201_d_0000435.jpg",
+    "status": "passed",
+    "laplacian_var": 655.48,
+    "num_objects": 81
+  },
+  {
+    "image_id": "0000313_06401_d_0000468",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000313_06401_d_0000468.jpg",
+    "status": "passed",
+    "laplacian_var": 1388.53,
+    "num_objects": 91
+  },
+  {
+    "image_id": "0000313_06601_d_0000469",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000313_06601_d_0000469.jpg",
+    "status": "passed",
+    "laplacian_var": 1409.44,
+    "num_objects": 165
+  },
+  {
+    "image_id": "0000313_07001_d_0000471",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000313_07001_d_0000471.jpg",
+    "status": "passed",
+    "laplacian_var": 1279.52,
+    "num_objects": 5
+  },
+  {
+    "image_id": "0000315_01601_d_0000509",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000315_01601_d_0000509.jpg",
+    "status": "passed",
+    "laplacian_var": 1244.67,
+    "num_objects": 98
+  },
+  {
+    "image_id": "0000316_00001_d_0000519",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000316_00001_d_0000519.jpg",
+    "status": "passed",
+    "laplacian_var": 1181.17,
+    "num_objects": 69
+  },
+  {
+    "image_id": "0000316_00201_d_0000520",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000316_00201_d_0000520.jpg",
+    "status": "passed",
+    "laplacian_var": 971.02,
+    "num_objects": 54
+  },
+  {
+    "image_id": "0000316_00401_d_0000521",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000316_00401_d_0000521.jpg",
+    "status": "passed",
+    "laplacian_var": 113.09,
+    "num_objects": 23
+  },
+  {
+    "image_id": "0000316_00601_d_0000522",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000316_00601_d_0000522.jpg",
+    "status": "passed",
+    "laplacian_var": 738.4,
+    "num_objects": 35
+  },
+  {
+    "image_id": "0000316_00801_d_0000523",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000316_00801_d_0000523.jpg",
+    "status": "passed",
+    "laplacian_var": 1350.88,
+    "num_objects": 27
+  },
+  {
+    "image_id": "0000316_01001_d_0000524",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000316_01001_d_0000524.jpg",
+    "status": "passed",
+    "laplacian_var": 191.22,
+    "num_objects": 18
+  },
+  {
+    "image_id": "0000316_01201_d_0000525",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000316_01201_d_0000525.jpg",
+    "status": "passed",
+    "laplacian_var": 622.97,
+    "num_objects": 43
+  },
+  {
+    "image_id": "0000316_01401_d_0000526",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000316_01401_d_0000526.jpg",
+    "status": "passed",
+    "laplacian_var": 626.89,
+    "num_objects": 34
+  },
+  {
+    "image_id": "0000316_01601_d_0000527",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000316_01601_d_0000527.jpg",
+    "status": "dropped",
+    "reason": "duplicate"
+  },
+  {
+    "image_id": "0000316_01801_d_0000528",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000316_01801_d_0000528.jpg",
+    "status": "passed",
+    "laplacian_var": 265.14,
+    "num_objects": 11
+  },
+  {
+    "image_id": "0000316_02001_d_0000529",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000316_02001_d_0000529.jpg",
+    "status": "passed",
+    "laplacian_var": 312.83,
+    "num_objects": 9
+  },
+  {
+    "image_id": "0000316_02201_d_0000530",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000316_02201_d_0000530.jpg",
+    "status": "passed",
+    "laplacian_var": 119.65,
+    "num_objects": 7
+  },
+  {
+    "image_id": "0000323_02601_d_0000645",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000323_02601_d_0000645.jpg",
+    "status": "passed",
+    "laplacian_var": 928.66,
+    "num_objects": 91
+  },
+  {
+    "image_id": "0000327_00001_d_0000711",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_00001_d_0000711.jpg",
+    "status": "passed",
+    "laplacian_var": 302.79,
+    "num_objects": 70
+  },
+  {
+    "image_id": "0000327_00201_d_0000712",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_00201_d_0000712.jpg",
+    "status": "passed",
+    "laplacian_var": 205.26,
+    "num_objects": 60
+  },
+  {
+    "image_id": "0000327_00401_d_0000713",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_00401_d_0000713.jpg",
+    "status": "passed",
+    "laplacian_var": 85.46,
+    "num_objects": 64
+  },
+  {
+    "image_id": "0000327_00601_d_0000714",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_00601_d_0000714.jpg",
+    "status": "passed",
+    "laplacian_var": 116.0,
+    "num_objects": 84
+  },
+  {
+    "image_id": "0000327_00801_d_0000715",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_00801_d_0000715.jpg",
+    "status": "passed",
+    "laplacian_var": 148.52,
+    "num_objects": 84
+  },
+  {
+    "image_id": "0000327_01001_d_0000716",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_01001_d_0000716.jpg",
+    "status": "passed",
+    "laplacian_var": 262.68,
+    "num_objects": 83
+  },
+  {
+    "image_id": "0000327_01201_d_0000717",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_01201_d_0000717.jpg",
+    "status": "passed",
+    "laplacian_var": 193.16,
+    "num_objects": 69
+  },
+  {
+    "image_id": "0000327_01401_d_0000718",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_01401_d_0000718.jpg",
+    "status": "passed",
+    "laplacian_var": 268.13,
+    "num_objects": 93
+  },
+  {
+    "image_id": "0000327_01801_d_0000720",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_01801_d_0000720.jpg",
+    "status": "passed",
+    "laplacian_var": 426.38,
+    "num_objects": 62
+  },
+  {
+    "image_id": "0000327_02601_d_0000724",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_02601_d_0000724.jpg",
+    "status": "passed",
+    "laplacian_var": 247.87,
+    "num_objects": 57
+  },
+  {
+    "image_id": "0000327_02801_d_0000725",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_02801_d_0000725.jpg",
+    "status": "passed",
+    "laplacian_var": 155.13,
+    "num_objects": 73
+  },
+  {
+    "image_id": "0000327_03001_d_0000726",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_03001_d_0000726.jpg",
+    "status": "passed",
+    "laplacian_var": 242.71,
+    "num_objects": 75
+  },
+  {
+    "image_id": "0000327_03201_d_0000727",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_03201_d_0000727.jpg",
+    "status": "passed",
+    "laplacian_var": 203.36,
+    "num_objects": 110
+  },
+  {
+    "image_id": "0000327_03401_d_0000728",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_03401_d_0000728.jpg",
+    "status": "passed",
+    "laplacian_var": 258.82,
+    "num_objects": 75
+  },
+  {
+    "image_id": "0000327_03601_d_0000729",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_03601_d_0000729.jpg",
+    "status": "passed",
+    "laplacian_var": 233.93,
+    "num_objects": 60
+  },
+  {
+    "image_id": "0000327_03801_d_0000730",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_03801_d_0000730.jpg",
+    "status": "passed",
+    "laplacian_var": 383.52,
+    "num_objects": 104
+  },
+  {
+    "image_id": "0000327_04001_d_0000731",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_04001_d_0000731.jpg",
+    "status": "passed",
+    "laplacian_var": 473.24,
+    "num_objects": 137
+  },
+  {
+    "image_id": "0000327_04201_d_0000732",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000327_04201_d_0000732.jpg",
+    "status": "passed",
+    "laplacian_var": 323.88,
+    "num_objects": 110
+  },
+  {
+    "image_id": "0000330_00001_d_0000800",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_00001_d_0000800.jpg",
+    "status": "passed",
+    "laplacian_var": 1208.2,
+    "num_objects": 80
+  },
+  {
+    "image_id": "0000330_00201_d_0000801",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_00201_d_0000801.jpg",
+    "status": "passed",
+    "laplacian_var": 940.09,
+    "num_objects": 130
+  },
+  {
+    "image_id": "0000330_00401_d_0000802",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_00401_d_0000802.jpg",
+    "status": "passed",
+    "laplacian_var": 779.76,
+    "num_objects": 112
+  },
+  {
+    "image_id": "0000330_00601_d_0000803",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_00601_d_0000803.jpg",
+    "status": "passed",
+    "laplacian_var": 751.94,
+    "num_objects": 94
+  },
+  {
+    "image_id": "0000330_00801_d_0000804",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_00801_d_0000804.jpg",
+    "status": "passed",
+    "laplacian_var": 674.74,
+    "num_objects": 93
+  },
+  {
+    "image_id": "0000330_01001_d_0000805",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_01001_d_0000805.jpg",
+    "status": "passed",
+    "laplacian_var": 718.14,
+    "num_objects": 93
+  },
+  {
+    "image_id": "0000330_01201_d_0000806",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_01201_d_0000806.jpg",
+    "status": "passed",
+    "laplacian_var": 779.99,
+    "num_objects": 110
+  },
+  {
+    "image_id": "0000330_01401_d_0000807",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_01401_d_0000807.jpg",
+    "status": "passed",
+    "laplacian_var": 958.97,
+    "num_objects": 161
+  },
+  {
+    "image_id": "0000330_01601_d_0000808",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_01601_d_0000808.jpg",
+    "status": "passed",
+    "laplacian_var": 806.42,
+    "num_objects": 99
+  },
+  {
+    "image_id": "0000330_01801_d_0000809",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_01801_d_0000809.jpg",
+    "status": "passed",
+    "laplacian_var": 396.38,
+    "num_objects": 64
+  },
+  {
+    "image_id": "0000330_02001_d_0000810",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_02001_d_0000810.jpg",
+    "status": "passed",
+    "laplacian_var": 475.13,
+    "num_objects": 57
+  },
+  {
+    "image_id": "0000330_02201_d_0000811",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_02201_d_0000811.jpg",
+    "status": "passed",
+    "laplacian_var": 323.92,
+    "num_objects": 44
+  },
+  {
+    "image_id": "0000330_02801_d_0000814",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_02801_d_0000814.jpg",
+    "status": "passed",
+    "laplacian_var": 330.55,
+    "num_objects": 45
+  },
+  {
+    "image_id": "0000330_03001_d_0000815",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_03001_d_0000815.jpg",
+    "status": "passed",
+    "laplacian_var": 272.74,
+    "num_objects": 45
+  },
+  {
+    "image_id": "0000330_03201_d_0000816",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_03201_d_0000816.jpg",
+    "status": "passed",
+    "laplacian_var": 469.19,
+    "num_objects": 69
+  },
+  {
+    "image_id": "0000330_04001_d_0000820",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_04001_d_0000820.jpg",
+    "status": "passed",
+    "laplacian_var": 274.96,
+    "num_objects": 39
+  },
+  {
+    "image_id": "0000330_04201_d_0000821",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_04201_d_0000821.jpg",
+    "status": "passed",
+    "laplacian_var": 576.91,
+    "num_objects": 163
+  },
+  {
+    "image_id": "0000330_04401_d_0000822",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_04401_d_0000822.jpg",
+    "status": "passed",
+    "laplacian_var": 282.64,
+    "num_objects": 38
+  },
+  {
+    "image_id": "0000330_04601_d_0000823",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000330_04601_d_0000823.jpg",
+    "status": "passed",
+    "laplacian_var": 493.83,
+    "num_objects": 62
+  },
+  {
+    "image_id": "0000333_00001_d_0000001",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000333_00001_d_0000001.jpg",
+    "status": "passed",
+    "laplacian_var": 495.67,
+    "num_objects": 68
+  },
+  {
+    "image_id": "0000333_01765_d_0000010",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000333_01765_d_0000010.jpg",
+    "status": "passed",
+    "laplacian_var": 446.7,
+    "num_objects": 120
+  },
+  {
+    "image_id": "0000333_01961_d_0000011",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000333_01961_d_0000011.jpg",
+    "status": "passed",
+    "laplacian_var": 461.47,
+    "num_objects": 65
+  },
+  {
+    "image_id": "0000333_02157_d_0000012",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000333_02157_d_0000012.jpg",
+    "status": "passed",
+    "laplacian_var": 492.9,
+    "num_objects": 67
+  },
+  {
+    "image_id": "0000333_02353_d_0000013",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000333_02353_d_0000013.jpg",
+    "status": "passed",
+    "laplacian_var": 457.23,
+    "num_objects": 70
+  },
+  {
+    "image_id": "0000333_02549_d_0000014",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000333_02549_d_0000014.jpg",
+    "status": "passed",
+    "laplacian_var": 446.09,
+    "num_objects": 91
+  },
+  {
+    "image_id": "0000333_02745_d_0000015",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000333_02745_d_0000015.jpg",
+    "status": "passed",
+    "laplacian_var": 483.22,
+    "num_objects": 52
+  },
+  {
+    "image_id": "0000333_02941_d_0000016",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000333_02941_d_0000016.jpg",
+    "status": "passed",
+    "laplacian_var": 387.47,
+    "num_objects": 44
+  },
+  {
+    "image_id": "0000333_03137_d_0000017",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000333_03137_d_0000017.jpg",
+    "status": "passed",
+    "laplacian_var": 410.56,
+    "num_objects": 40
+  },
+  {
+    "image_id": "0000333_03333_d_0000018",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000333_03333_d_0000018.jpg",
+    "status": "passed",
+    "laplacian_var": 456.11,
+    "num_objects": 62
+  },
+  {
+    "image_id": "0000333_03529_d_0000019",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000333_03529_d_0000019.jpg",
+    "status": "passed",
+    "laplacian_var": 445.92,
+    "num_objects": 96
+  },
+  {
+    "image_id": "0000333_03725_d_0000020",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000333_03725_d_0000020.jpg",
+    "status": "passed",
+    "laplacian_var": 450.72,
+    "num_objects": 83
+  },
+  {
+    "image_id": "0000335_00001_d_0000043",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_00001_d_0000043.jpg",
+    "status": "passed",
+    "laplacian_var": 897.06,
+    "num_objects": 41
+  },
+  {
+    "image_id": "0000335_00197_d_0000044",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_00197_d_0000044.jpg",
+    "status": "passed",
+    "laplacian_var": 821.87,
+    "num_objects": 37
+  },
+  {
+    "image_id": "0000335_00393_d_0000045",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_00393_d_0000045.jpg",
+    "status": "passed",
+    "laplacian_var": 735.96,
+    "num_objects": 34
+  },
+  {
+    "image_id": "0000335_00589_d_0000046",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_00589_d_0000046.jpg",
+    "status": "passed",
+    "laplacian_var": 368.0,
+    "num_objects": 21
+  },
+  {
+    "image_id": "0000335_00785_d_0000047",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_00785_d_0000047.jpg",
+    "status": "passed",
+    "laplacian_var": 550.78,
+    "num_objects": 34
+  },
+  {
+    "image_id": "0000335_00981_d_0000048",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_00981_d_0000048.jpg",
+    "status": "passed",
+    "laplacian_var": 764.99,
+    "num_objects": 78
+  },
+  {
+    "image_id": "0000335_01765_d_0000052",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_01765_d_0000052.jpg",
+    "status": "passed",
+    "laplacian_var": 599.13,
+    "num_objects": 61
+  },
+  {
+    "image_id": "0000335_01961_d_0000053",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_01961_d_0000053.jpg",
+    "status": "passed",
+    "laplacian_var": 619.91,
+    "num_objects": 69
+  },
+  {
+    "image_id": "0000335_02353_d_0000055",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_02353_d_0000055.jpg",
+    "status": "passed",
+    "laplacian_var": 918.07,
+    "num_objects": 82
+  },
+  {
+    "image_id": "0000335_02549_d_0000056",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_02549_d_0000056.jpg",
+    "status": "dropped",
+    "reason": "duplicate"
+  },
+  {
+    "image_id": "0000335_02745_d_0000057",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_02745_d_0000057.jpg",
+    "status": "dropped",
+    "reason": "duplicate"
+  },
+  {
+    "image_id": "0000335_03137_d_0000059",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_03137_d_0000059.jpg",
+    "status": "passed",
+    "laplacian_var": 756.42,
+    "num_objects": 103
+  },
+  {
+    "image_id": "0000335_03333_d_0000060",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_03333_d_0000060.jpg",
+    "status": "passed",
+    "laplacian_var": 556.72,
+    "num_objects": 40
+  },
+  {
+    "image_id": "0000335_03725_d_0000062",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_03725_d_0000062.jpg",
+    "status": "passed",
+    "laplacian_var": 509.04,
+    "num_objects": 27
+  },
+  {
+    "image_id": "0000335_03921_d_0000063",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_03921_d_0000063.jpg",
+    "status": "passed",
+    "laplacian_var": 608.44,
+    "num_objects": 44
+  },
+  {
+    "image_id": "0000335_04117_d_0000064",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_04117_d_0000064.jpg",
+    "status": "passed",
+    "laplacian_var": 664.95,
+    "num_objects": 28
+  },
+  {
+    "image_id": "0000335_04313_d_0000065",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_04313_d_0000065.jpg",
+    "status": "passed",
+    "laplacian_var": 703.65,
+    "num_objects": 38
+  },
+  {
+    "image_id": "0000335_05097_d_0000069",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_05097_d_0000069.jpg",
+    "status": "passed",
+    "laplacian_var": 531.43,
+    "num_objects": 20
+  },
+  {
+    "image_id": "0000335_05685_d_0000072",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_05685_d_0000072.jpg",
+    "status": "passed",
+    "laplacian_var": 351.91,
+    "num_objects": 15
+  },
+  {
+    "image_id": "0000335_06469_d_0000076",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_06469_d_0000076.jpg",
+    "status": "passed",
+    "laplacian_var": 777.16,
+    "num_objects": 8
+  },
+  {
+    "image_id": "0000335_06665_d_0000077",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_06665_d_0000077.jpg",
+    "status": "passed",
+    "laplacian_var": 349.62,
+    "num_objects": 21
+  },
+  {
+    "image_id": "0000335_06861_d_0000078",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000335_06861_d_0000078.jpg",
+    "status": "passed",
+    "laplacian_var": 464.91,
+    "num_objects": 24
+  },
+  {
+    "image_id": "0000342_00393_d_0000244",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000342_00393_d_0000244.jpg",
+    "status": "passed",
+    "laplacian_var": 337.36,
+    "num_objects": 133
+  },
+  {
+    "image_id": "0000345_07057_d_0000345",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000345_07057_d_0000345.jpg",
+    "status": "passed",
+    "laplacian_var": 601.68,
+    "num_objects": 108
+  },
+  {
+    "image_id": "0000346_00001_d_0000346",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000346_00001_d_0000346.jpg",
+    "status": "passed",
+    "laplacian_var": 984.94,
+    "num_objects": 82
+  },
+  {
+    "image_id": "0000346_01961_d_0000356",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000346_01961_d_0000356.jpg",
+    "status": "passed",
+    "laplacian_var": 603.36,
+    "num_objects": 71
+  },
+  {
+    "image_id": "0000346_02549_d_0000359",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000346_02549_d_0000359.jpg",
+    "status": "passed",
+    "laplacian_var": 704.38,
+    "num_objects": 59
+  },
+  {
+    "image_id": "0000346_03921_d_0000366",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000346_03921_d_0000366.jpg",
+    "status": "passed",
+    "laplacian_var": 621.77,
+    "num_objects": 50
+  },
+  {
+    "image_id": "0000346_07057_d_0000382",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000346_07057_d_0000382.jpg",
+    "status": "passed",
+    "laplacian_var": 557.11,
+    "num_objects": 87
+  },
+  {
+    "image_id": "0000348_00589_d_0000409",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000348_00589_d_0000409.jpg",
+    "status": "passed",
+    "laplacian_var": 812.92,
+    "num_objects": 34
+  },
+  {
+    "image_id": "0000348_03333_d_0000423",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000348_03333_d_0000423.jpg",
+    "status": "passed",
+    "laplacian_var": 136.5,
+    "num_objects": 15
+  },
+  {
+    "image_id": "0000356_00589_d_0000632",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_00589_d_0000632.jpg",
+    "status": "passed",
+    "laplacian_var": 457.51,
+    "num_objects": 121
+  },
+  {
+    "image_id": "0000356_01177_d_0000635",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_01177_d_0000635.jpg",
+    "status": "passed",
+    "laplacian_var": 398.6,
+    "num_objects": 88
+  },
+  {
+    "image_id": "0000356_01569_d_0000637",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_01569_d_0000637.jpg",
+    "status": "passed",
+    "laplacian_var": 363.27,
+    "num_objects": 100
+  },
+  {
+    "image_id": "0000356_01765_d_0000638",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_01765_d_0000638.jpg",
+    "status": "passed",
+    "laplacian_var": 324.42,
+    "num_objects": 84
+  },
+  {
+    "image_id": "0000356_01961_d_0000639",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_01961_d_0000639.jpg",
+    "status": "passed",
+    "laplacian_var": 324.24,
+    "num_objects": 111
+  },
+  {
+    "image_id": "0000356_02157_d_0000640",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_02157_d_0000640.jpg",
+    "status": "passed",
+    "laplacian_var": 317.72,
+    "num_objects": 54
+  },
+  {
+    "image_id": "0000356_02353_d_0000641",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_02353_d_0000641.jpg",
+    "status": "passed",
+    "laplacian_var": 284.21,
+    "num_objects": 106
+  },
+  {
+    "image_id": "0000356_02745_d_0000643",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_02745_d_0000643.jpg",
+    "status": "passed",
+    "laplacian_var": 272.27,
+    "num_objects": 97
+  },
+  {
+    "image_id": "0000356_02941_d_0000644",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_02941_d_0000644.jpg",
+    "status": "passed",
+    "laplacian_var": 267.12,
+    "num_objects": 108
+  },
+  {
+    "image_id": "0000356_03333_d_0000646",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_03333_d_0000646.jpg",
+    "status": "passed",
+    "laplacian_var": 271.72,
+    "num_objects": 80
+  },
+  {
+    "image_id": "0000356_03529_d_0000647",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_03529_d_0000647.jpg",
+    "status": "passed",
+    "laplacian_var": 380.96,
+    "num_objects": 81
+  },
+  {
+    "image_id": "0000356_03725_d_0000648",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_03725_d_0000648.jpg",
+    "status": "passed",
+    "laplacian_var": 291.53,
+    "num_objects": 94
+  },
+  {
+    "image_id": "0000356_03921_d_0000649",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_03921_d_0000649.jpg",
+    "status": "passed",
+    "laplacian_var": 271.04,
+    "num_objects": 72
+  },
+  {
+    "image_id": "0000356_04117_d_0000650",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_04117_d_0000650.jpg",
+    "status": "passed",
+    "laplacian_var": 261.35,
+    "num_objects": 93
+  },
+  {
+    "image_id": "0000356_04313_d_0000651",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_04313_d_0000651.jpg",
+    "status": "passed",
+    "laplacian_var": 253.12,
+    "num_objects": 99
+  },
+  {
+    "image_id": "0000356_04705_d_0000653",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_04705_d_0000653.jpg",
+    "status": "passed",
+    "laplacian_var": 273.76,
+    "num_objects": 70
+  },
+  {
+    "image_id": "0000356_04901_d_0000654",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_04901_d_0000654.jpg",
+    "status": "passed",
+    "laplacian_var": 278.81,
+    "num_objects": 102
+  },
+  {
+    "image_id": "0000356_05097_d_0000655",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000356_05097_d_0000655.jpg",
+    "status": "passed",
+    "laplacian_var": 320.49,
+    "num_objects": 114
+  },
+  {
+    "image_id": "0000358_03333_d_0000697",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000358_03333_d_0000697.jpg",
+    "status": "passed",
+    "laplacian_var": 774.69,
+    "num_objects": 93
+  },
+  {
+    "image_id": "0000359_00393_d_0000701",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000359_00393_d_0000701.jpg",
+    "status": "passed",
+    "laplacian_var": 194.46,
+    "num_objects": 39
+  },
+  {
+    "image_id": "0000359_00589_d_0000702",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000359_00589_d_0000702.jpg",
+    "status": "dropped",
+    "reason": "blur(score=76.2)"
+  },
+  {
+    "image_id": "0000359_00785_d_0000703",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000359_00785_d_0000703.jpg",
+    "status": "passed",
+    "laplacian_var": 190.23,
+    "num_objects": 30
+  },
+  {
+    "image_id": "0000359_00981_d_0000704",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000359_00981_d_0000704.jpg",
+    "status": "passed",
+    "laplacian_var": 82.95,
+    "num_objects": 33
+  },
+  {
+    "image_id": "0000359_01177_d_0000705",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000359_01177_d_0000705.jpg",
+    "status": "passed",
+    "laplacian_var": 241.71,
+    "num_objects": 59
+  },
+  {
+    "image_id": "0000359_01373_d_0000706",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000359_01373_d_0000706.jpg",
+    "status": "dropped",
+    "reason": "blur(score=37.5)"
+  },
+  {
+    "image_id": "0000359_01961_d_0000707",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000359_01961_d_0000707.jpg",
+    "status": "dropped",
+    "reason": "blur(score=78.3)"
+  },
+  {
+    "image_id": "0000359_02353_d_0000708",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000359_02353_d_0000708.jpg",
+    "status": "passed",
+    "laplacian_var": 244.33,
+    "num_objects": 31
+  },
+  {
+    "image_id": "0000359_02549_d_0000709",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000359_02549_d_0000709.jpg",
+    "status": "passed",
+    "laplacian_var": 132.19,
+    "num_objects": 21
+  },
+  {
+    "image_id": "0000359_03333_d_0000711",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000359_03333_d_0000711.jpg",
+    "status": "dropped",
+    "reason": "blur(score=65.8)"
+  },
+  {
+    "image_id": "0000359_03529_d_0000712",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000359_03529_d_0000712.jpg",
+    "status": "dropped",
+    "reason": "blur(score=19.3)"
+  },
+  {
+    "image_id": "0000360_00001_d_0000713",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_00001_d_0000713.jpg",
+    "status": "passed",
+    "laplacian_var": 510.1,
+    "num_objects": 80
+  },
+  {
+    "image_id": "0000360_00197_d_0000714",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_00197_d_0000714.jpg",
+    "status": "passed",
+    "laplacian_var": 543.17,
+    "num_objects": 79
+  },
+  {
+    "image_id": "0000360_00393_d_0000715",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_00393_d_0000715.jpg",
+    "status": "passed",
+    "laplacian_var": 526.87,
+    "num_objects": 79
+  },
+  {
+    "image_id": "0000360_00589_d_0000716",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_00589_d_0000716.jpg",
+    "status": "passed",
+    "laplacian_var": 527.5,
+    "num_objects": 60
+  },
+  {
+    "image_id": "0000360_00785_d_0000717",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_00785_d_0000717.jpg",
+    "status": "passed",
+    "laplacian_var": 430.79,
+    "num_objects": 59
+  },
+  {
+    "image_id": "0000360_00981_d_0000718",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_00981_d_0000718.jpg",
+    "status": "passed",
+    "laplacian_var": 642.11,
+    "num_objects": 65
+  },
+  {
+    "image_id": "0000360_02353_d_0000725",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_02353_d_0000725.jpg",
+    "status": "passed",
+    "laplacian_var": 711.27,
+    "num_objects": 72
+  },
+  {
+    "image_id": "0000360_02745_d_0000727",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_02745_d_0000727.jpg",
+    "status": "passed",
+    "laplacian_var": 542.21,
+    "num_objects": 81
+  },
+  {
+    "image_id": "0000360_02941_d_0000728",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_02941_d_0000728.jpg",
+    "status": "passed",
+    "laplacian_var": 196.21,
+    "num_objects": 45
+  },
+  {
+    "image_id": "0000360_03137_d_0000729",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_03137_d_0000729.jpg",
+    "status": "passed",
+    "laplacian_var": 347.37,
+    "num_objects": 56
+  },
+  {
+    "image_id": "0000360_03333_d_0000730",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_03333_d_0000730.jpg",
+    "status": "passed",
+    "laplacian_var": 517.7,
+    "num_objects": 56
+  },
+  {
+    "image_id": "0000360_03529_d_0000731",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_03529_d_0000731.jpg",
+    "status": "passed",
+    "laplacian_var": 399.61,
+    "num_objects": 31
+  },
+  {
+    "image_id": "0000360_03921_d_0000733",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_03921_d_0000733.jpg",
+    "status": "passed",
+    "laplacian_var": 515.91,
+    "num_objects": 52
+  },
+  {
+    "image_id": "0000360_04117_d_0000734",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_04117_d_0000734.jpg",
+    "status": "dropped",
+    "reason": "blur(score=70.9)"
+  },
+  {
+    "image_id": "0000360_04705_d_0000737",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_04705_d_0000737.jpg",
+    "status": "passed",
+    "laplacian_var": 91.81,
+    "num_objects": 9
+  },
+  {
+    "image_id": "0000360_05293_d_0000740",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_05293_d_0000740.jpg",
+    "status": "passed",
+    "laplacian_var": 449.27,
+    "num_objects": 70
+  },
+  {
+    "image_id": "0000360_05685_d_0000742",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_05685_d_0000742.jpg",
+    "status": "passed",
+    "laplacian_var": 620.14,
+    "num_objects": 60
+  },
+  {
+    "image_id": "0000360_06273_d_0000745",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_06273_d_0000745.jpg",
+    "status": "dropped",
+    "reason": "blur(score=79.2)"
+  },
+  {
+    "image_id": "0000360_06665_d_0000747",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_06665_d_0000747.jpg",
+    "status": "passed",
+    "laplacian_var": 498.25,
+    "num_objects": 48
+  },
+  {
+    "image_id": "0000360_06861_d_0000748",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_06861_d_0000748.jpg",
+    "status": "passed",
+    "laplacian_var": 342.17,
+    "num_objects": 25
+  },
+  {
+    "image_id": "0000360_07057_d_0000749",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_07057_d_0000749.jpg",
+    "status": "dropped",
+    "reason": "blur(score=63.1)"
+  },
+  {
+    "image_id": "0000360_07253_d_0000750",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_07253_d_0000750.jpg",
+    "status": "passed",
+    "laplacian_var": 368.54,
+    "num_objects": 28
+  },
+  {
+    "image_id": "0000360_07645_d_0000752",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000360_07645_d_0000752.jpg",
+    "status": "passed",
+    "laplacian_var": 351.17,
+    "num_objects": 16
+  },
+  {
+    "image_id": "0000364_00589_d_0000798",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000364_00589_d_0000798.jpg",
+    "status": "passed",
+    "laplacian_var": 1019.79,
+    "num_objects": 62
+  },
+  {
+    "image_id": "0000364_01177_d_0000799",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000364_01177_d_0000799.jpg",
+    "status": "passed",
+    "laplacian_var": 940.37,
+    "num_objects": 80
+  },
+  {
+    "image_id": "0000364_01373_d_0000780",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000364_01373_d_0000780.jpg",
+    "status": "passed",
+    "laplacian_var": 1176.16,
+    "num_objects": 64
+  },
+  {
+    "image_id": "0000364_01569_d_0000781",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000364_01569_d_0000781.jpg",
+    "status": "passed",
+    "laplacian_var": 1446.13,
+    "num_objects": 97
+  },
+  {
+    "image_id": "0000364_01765_d_0000782",
+    "image_path": "data/raw/visdrone/VisDrone2019-DET-val/images/0000364_01765_d_0000782.jpg",
+    "status": "passed",
+    "laplacian_var": 1329.44,
+    "num_objects": 81
+  }
+]

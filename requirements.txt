@@ -1,0 +1,11 @@
+numpy==1.26.4
+opencv-python>=4.8.0
+pandas>=2.0.0
+torch==2.1.2
+torchvision==0.16.2
+webdataset>=0.2.86
+Pillow>=10.0.0
+imagehash>=4.3.1
+tqdm>=4.66.0
+pytest>=7.4.0
+dvc>=3.30.0

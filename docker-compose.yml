@@ -1,0 +1,81 @@
+services:
+
+  # Builds the image — all other services reuse this same image
+  pipeline:
+    build: .
+    image: drone-sensor-pipeline
+    container_name: drone_pipeline
+    shm_size: '2gb' 
+    volumes:
+      - ./data/raw:/app/data/raw
+      - ./data/processed:/app/data/processed
+      - ./data/sharded:/app/data/sharded
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTHONPATH=/app
+
+  ingestion:
+    image: drone-sensor-pipeline
+    container_name: drone_ingestion
+    volumes:
+      - ./data/raw:/app/data/raw
+      - ./data/processed:/app/data/processed
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTHONPATH=/app
+    command: python scripts/run_ingestion.py --split val
+
+  alignment:
+    image: drone-sensor-pipeline
+    container_name: drone_alignment
+    volumes:
+      - ./data/processed:/app/data/processed
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTHONPATH=/app
+    command: python scripts/run_alignment.py
+
+  curation:
+    image: drone-sensor-pipeline
+    container_name: drone_curation
+    volumes:
+      - ./data/processed:/app/data/processed
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTHONPATH=/app
+    command: python scripts/run_curation.py --blur-threshold 80
+
+  sharding:
+    image: drone-sensor-pipeline
+    container_name: drone_sharding
+    volumes:
+      - ./data/processed:/app/data/processed
+      - ./data/sharded:/app/data/sharded
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTHONPATH=/app
+    command: python scripts/run_sharding.py --shard-size 200
+
+  benchmark:
+    image: drone-sensor-pipeline
+    container_name: drone_benchmark
+    shm_size: '2gb' 
+    volumes:
+      - ./data/sharded:/app/data/sharded
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTHONPATH=/app
+    command: >
+      python scripts/run_dataloader_benchmark.py
+      --num-workers 2
+      --num-batches 10
+
+  tests:
+    image: drone-sensor-pipeline
+    container_name: drone_tests
+    volumes:
+      - ./data/processed:/app/data/processed
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTHONPATH=/app
+    command: pytest tests/ -v
